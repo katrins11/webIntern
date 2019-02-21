@@ -1,0 +1,1432 @@
+{
+    "post":[
+        {
+            "id":"1", 
+            "companyName":"Company One",
+            "postTitle":"Are you our a designer with pasion for Front-end?",
+            "searchFilter": ["frontend", "webdesign"],
+            "importantInfo":{
+                "deadline":"01.01.2019",
+                "created":"22.11.2018",
+                "duration":"3 months",
+                "location":"Fredriksberg"
+            },
+            "internshipText": {
+                "introduction":"At Company One we are always looking for talented people to become part of the family. We are looking for interns within frontend development. Internships at Company One are  a minimum of 10-12 weeks. We provide a mentor throughout you internship, who will guide you and help you reach your goals.",
+                "yourProfile":"Are you interested in development and are you in the process of taking a web related education within design or web design. Are you used to working in sketch and has an understanding and interest in designing websites. Do you have the basic knowledge of HTML,PHP , CSS, and search engine optimization? Are you responsible and meeting stable. We expect you to not be afraid of new challenges and are conversational, that you have the courage to talk with our customers if there is a need for it. We also need you to speak and write in english, since most of our customer dialogue takes place in English.",
+                "aboutUs":"We are a premium agency based in Copenhagen. We offer development of Integrated Marketing, Digital Products and Service. We offer these three products to our clients separately, but hopefully all together. We have specialized in a certain area which we call “Helpful Marketing”. We develop experiences, tools or utilities that give the user a feeling of being helped. This is because we have realized that in the customer's eye most marketing is intrusive, while products are helpful. If we develop marketing in the same manner as products - i.e. in order to help people or solve a problem – customers are more likely to like the marketing and the brand.At Umwelt, we believe in full service with a digital core. We make digital solutions that help our customers set the digital agenda in their industry. We are experts in branded utilities, but we also work with all types of websites, webshops, apps, banners, etc.",
+                "toolsTasks":[
+                    "HTML/CSS",
+                    "Angular",
+                    "GreenSock",
+                    "JavaScript",
+                    "ScrollMagic"
+                ]
+            },
+            "front":"http://katrinsig.com/webIntern/images/portrait/design/a-unsplash.jpg",
+            "images": [
+                "http://katrinsig.com/webIntern/images/landscape/design/a-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/d-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/f-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/b-unsplash.jpg"
+            ],
+            "statisticInfo":{
+                "employees":"28",
+                "clients":"20",
+                "projects":"35",
+                "companyAge":"22"
+            },
+            "contact":{
+                "interested":"Does this open position match your skills? Send us your resumé and tell us about your talents. Please send an email to: job@umwelt.com. If this position does not match your skills, please send us an application anyway. We look forward to hearing from you!",
+                "contactInfo":{
+                    "facebook":"https://www.facebook.com/",
+                    "instagram":"https://www.instagram.com/",
+                    "linkedIn":"https://www.linkedin.com/company/",
+                    "phoneNumber":"+45 60 60 60 60",
+                    "email":"CompanyOne@company.com",
+                    "address":"Jernbanegade 6, 6700 Copenhagen",
+                    "website":"www.CompanyOne.dk"
+                }
+            }   
+        },
+        {
+            "id":"2", 
+            "companyName":"Company Two",
+            "postTitle":"We need Designer & Fullstack Interns",
+            "searchFilter": ["webdesign","fullstack"],
+            "importantInfo":{
+                "deadline":"01.01.2019",
+                "created":"22.11.2018",
+                "duration":"3 months",
+                "location":"Valby"
+            },
+            "internshipText": {
+                "introduction":"We are looking for interns at within web design and fullstack development. Internships at Company Two last from 3 - 6 months and you will either be apart of the design or development team. You will have tasks within scalable responsive design, you will help build, maintain and optimise websites and their features. You will get a lot of responsibility and the chance to shape your own career as we grow. You will have a chance to join an ambitious international team who thrives in fun environment. A chance to be a part of a great network and you will have a flexible work schedule.",
+                "yourProfile":"You are currently studying or have a degree from an IT university, BSc/MSc in Computer Science, IT engineer or equivalent. Experienced in maintaining and improving the design and flow of the website. Experienced with front-end web technologies like HTML, CSS and JavaScript. A passionate software developer who speaks tech as your mother language. A person who knows how to write good solid code. Fluent in either English, Danish or Czech. A team player with a go-get mindset.",
+                "aboutUs":"Company Two is an innovation and design company, established on 15.08.2000. We develop digital services, brand experiences and innovative design solutions, and help our customers accelerate their digital transformation. We work through a well-proven framework, based on design thinking, prototyping and agile development, created to identify challenges and fast-paced solutions that support business goals and strategies. Through close cooperation we have helped more than 500 customers with business and product development, strategy and brand experience.",
+                "toolsTasks":[
+                    "Websites","Responsive Design","Umbraco","JavaScript","HTML/CSS","GreenSock"
+                ]
+            },
+            "front":"http://katrinsig.com/webIntern/images/portrait/d-unsplash.jpg",
+            "images": [
+                "http://katrinsig.com/webIntern/images/landscape/design/f-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/d-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/b-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/e-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/c-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/a-unsplash.jpg"
+            ],
+            "statisticInfo":{
+                "employees":"30",
+                "clients":"12",
+                "projects":"18",
+                "companyAge":"18"
+            },
+            "contact":{
+                "interested":"We are always looking for talented people. Applications will be reviewed on an ongoing basis. So if you are interested and would like to know more: send us your application, CV and portfolio to job@1508.dk and we will contact you within few days and have a chat :) We promise lots of hands on experience as well as personal and career growth in a fun environment!",
+                "contactInfo":{
+                    "facebook":"https://www.facebook.com/",
+                    "instagram":"https://www.instagram.com/",
+                    "linkedIn":"https://www.linkedin.com/company",
+                    "phoneNumber":"+45 33 33 33 33",
+                    "email":"CompanyTwo@Company.com",
+                    "address":"Platanvej 13, 1810 Frederiksberg",
+                    "website":"CompanyTwo.dk"
+                }
+            }  
+        },
+        {
+            "id":"3", 
+            "companyName":"Company Three",
+            "postTitle":"Are you our new frontEnd Intern?",
+            "searchFilter": ["frontend"],
+            "importantInfo":{
+                "deadline":"01.01.2019",
+                "created":"22.11.2018",
+                "duration":"3 months",
+                "location":"Nørreport"
+            },
+            "internshipText": {
+                "introduction":"We are looking for a new team member with a flair for frontend at Company Three. An internship at Cabana is a minimum of 3 months and you can expect to be given a mentor throughout your internship. We will provide a good learning experience, free lunch, friday bars and other stuff.",
+                "yourProfile":"You hold at least a bachelor’s degree in Design, Computer Science, Engineering or related field. Have a good flair for UX design in general and  experience with JavaScript, HTML and CSS. Experience with UX and UI design is an advantage, Adobe XD, Proto.io, Sketch etc. Have a portfolio that you can share with us. Take initiative, enjoy working both alone and with others, and are creative. Are curious, open to new ideas and on top of the latest trends.",
+                "aboutUs":"Company Three is a digital experience studio. This means that we make solutions in close collaboration with our customers who solve business problems and provide value for their users. We are specialists in marketing automation and engagement flows and have since 2002 made it our mission to deliver personalized, digital user experiences with measurable results. We are a team of talented designers, certified developers, crisp project managers and experienced advisors. The starting point is always to know the individual company - to understand the challenges and needs. Only in this way can we provide the best advice. We live at Christianshavn and here is nice to be. Our passion for what we do can be clearly felt on the quality of our work.",
+                "toolsTasks":[
+                    "Collaborate with the team and UX Lead to create new prototypes and solutions for the product.",
+                    "Support user research and testing.",
+                    "Develop wireframes and task flows based on user needs.",
+                    "Collaborate with the UX Lead/external team and developers to create intuitive and user-friendly software.",
+                    "Find creative ways to solve UX problems."
+                ]
+            },
+            "front":"http://katrinsig.com/webIntern/images/portrait/f-unsplash.jpg",
+            "images": [
+                "http://katrinsig.com/webIntern/images/landscape/d-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/f-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/n-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/o-unsplash.jpg"
+            ],
+            "statisticInfo":{
+                "employees":"12",
+                "clients":"3",
+                "projects":"4",
+                "companyAge":"8"
+            },
+            "contact":{
+                "interested":"Sounds good? Great, then please drop us an email with your application and posible your portfolio and three lines describing why you should be the newest addition to our team. If you refer a new team member; we’ll make sure to send you a fine bottle of Snaps. Send us an email on job@cabana.dk",
+                "contactInfo":{
+                    "facebook":"https://www.facebook.com/",
+                    "instagram":"https://www.instagram.com/",
+                    "linkedIn":"https://www.linkedin.com/",
+                    "phoneNumber":"+45 67 88 90 22",
+                    "email":"CompanyThree@company.com",
+                    "address":"Langebro 22, 5600 Århus",
+                    "website":"www.CompanyThree.dk"
+                }
+            }
+        },
+        {
+            "id":"4", 
+            "companyName":"Company Four",
+            "postTitle":"Are you studying Frontend? come and join us",
+            "searchFilter": ["frontend"],
+            "importantInfo":{
+                "deadline":"01.01.2019",
+                "created":"29.11.2018",
+                "duration":"3 months",
+                "location":"Vanløse"
+            },
+            "internshipText":{
+                "introduction":"During your internship as Frontend Developer, you will be assigned a mentor, who will assure a structured and prepared internship, with daily feedback and back-and-forth regarding various tasks and procedures. Together you will have an on-going dialogue regarding your projects, so we can shape your internship from your interests.You will be part of a team with experienced frontend developers. Here you will experience how the development process works in teams who master the SCRUM process. The internship is set at 37 hours a week. Throughout your internship we’re offering you: An appetising breakfast and lunch scheme. Great coffee, soft drinks and fresh fruit. Lots of social activities. An informal work environment. Talented colleagues. A professionally ambitious and inspiring environment where we focus on your personal and professional development. Denmark’s most interesting clients. The possibility for monetary acknowledgment.",
+                "yourProfile":"You are most likely studying Multimedia Design, Information Technology or Web Development (PBA) with interest in frontend development. It is crucial that you are talented and have the “can do” spirit to take on a steep learning curve. Moreover, it’s a plus if you have experience within: Converting design into HTML/CSS, Animations, JavaScript programing, Angular, React or other MVC frameworks.",
+                "aboutUs":"We are a digital agency with 150+ employees and offices in Copenhagen and Aarhus. We work with strategy, implementation of platforms and digital marketing. We thrive on optimising and creating results for and with our clients. And we are confident that our great results are achieved when we combine a professional approach with having fun at the same time. We work for some of Scandinavian’s major brands and retailers such as...",
+                "toolsTasks":[
+                    "HTML/CSS",
+                    "Animations",
+                    "JavaScript programing",
+                    "Angular, React or other MVC frameworks."
+                ]
+            },
+            "front":"http://katrinsig.com/webIntern/images/portrait/e-unsplash.jpg",
+            "images": [
+                "http://katrinsig.com/webIntern/images/landscape/y-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/programming/b-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/q-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/m-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/e-unsplash.jpg"
+                
+            ],
+            "statisticInfo":{
+                "employees":"150",
+                "clients":"40",
+                "projects":"60",
+                "companyAge":"20"
+            },
+            "contact":{
+                "interested":"We provide the best solutions for our customers - and of course it requires the smartest heads of the industry. Is there such a thing on you and you are burning to create the future digital products and services? We are looking forward to hear from you. Submit your application as well as CV and possibly portfolio to job@impact.dk",
+                "contactInfo":{
+                    "facebook":"https://www.facebook.com/",
+                    "instagram":"https://www.instagram.com/",
+                    "linkedIn":"https://www.linkedin.com/company/",
+                    "phoneNumber":"+45 56 56 56 56",
+                    "email":"CompanyFour@Company.com",
+                    "address":"Lyneborggade 105, 2300 Copenhagen",
+                    "website":"www.CompanyFour.dk"
+                }
+            }
+        },
+        {
+            "id":"5", 
+            "companyName":"Company Five",
+            "postTitle":"We need Web Design intern, maybe that's you!",
+            "searchFilter": ["webdesign"],
+            "importantInfo": {
+                "deadline":"01.01.2019",
+                "created":"29.11.2018",
+                "duration":"3 months",
+                "location":"Copenhagen"
+            },
+            "internshipText": {
+                "introduction":"Are you looking for a rewarding internship where you can get hands on experience and grow as a designer? Company Five can provide you with exciting work tasks that is aligned with your interest and ambitions, not just coffee making! You will be joining a team with talented Designers, Coordinators and Project Managers. Most of them started as interns back in the days. Come join the school of Company Five and gain in-depth knowledge within design and creative thinking.",
+                "yourProfile":"You hold at least a bachelor’s degree in Design, Computer Science, Engineering or related field. Have a good flair for UX design in general. It is a plus (but not a prerequisite) if you have experience with JavaScript, HTML and CSS. Experience with UX and UI design is an advantage. Have a portfolio that you can share with us (we do not look at candidates without portfolio). Have problem solving skills and an analytical mindset. Want to participate in the UX and UI decision-making process in our company. Take initiative, enjoy working both alone and with others, and are creative. Are curious, open to new ideas and on top of the latest trends - innovation is critical to our success. Are fluent in English.",
+                "aboutUs":"Company Five was founded in 2014 with a mission to transform internal communication and performance management for businesses around the world. We base our knowledge on more than 30 years of experience with HR, Communication, Digital Technology and E-learning that we apply in our customized app solutions. Company Five is the first to develop a Retail Performance App. By using features based on intelligent software and elements of gamification the App motivates employees towards better performance and a proactive mindset. We are continuously developing our software to stay aligned with our clients’ needs and to push the boundaries of what our app can do. We deliver solutions for some of Europe’s largest retail businesses as well as some of the smallest. In common for all our collaborations is our mindset to build every relationship for the long run. We are there every step of the way to help our clients grow their people and their business.",
+                "toolsTasks":[
+                    "Collaborate with the team and UX Lead to create new prototypes and solutions for the product.", 
+                    "Support user research and testing.",
+                    "Develop wireframes and task flows based on user needs.",
+                    "Collaborate with the UX Lead/external team and developers to create intuitive and user-friendly software.",
+                    "Find creative ways to solve UX problems."
+                ]
+            },
+            "front":"http://katrinsig.com/webIntern/images/portrait/e-unsplash.jpg",
+            "images": [
+                "http://katrinsig.com/webIntern/images/landscape/design/b-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/c-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/d-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/f-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/a-unsplash.jpg"
+            ],
+            "statisticInfo": {
+                "employees":"11-50",
+                "clients":"20",
+                "projects":"30",
+                "companyAge":"4"
+            },
+            "contact":{
+                "interested":"We hope this post has caugth your interest. We are always looking for talented people. Please send ud your application and CV to job@job.com and will will get back to you as fast as posible. Give us a call if you have any questions reagarding this post.",
+                "contactInfo":{
+                    "facebook":"https://www.facebook.com/",
+                    "instagram":"https://www.instagram.com/",
+                    "linkedIn":"https://www.linkedin.com/company/",
+                    "phoneNumber":"+45 76 76 76 76",
+                    "email":"CompanyFive@Company.com",
+                    "address":"Gammelvej 45, 1200 Odense",
+                    "website":"CompanyFive.net"
+                }
+            }
+        },
+        {
+            "id":"6", 
+            "companyName":"Company Six",
+            "postTitle":"Are you our next talent? We are taking in Backend Intern",
+            "searchFilter": ["backend"],
+            "importantInfo": {
+                "deadline":"01.02.2019",
+                "created":"2.12.2018",
+                "duration":"3 months",
+                "location":"Copenhagen"
+            },
+            "internshipText": {
+                "introduction":"An internship at Company Six starts in January 2019. The internship has a duration of 2-3 months and it is unpaid. We serve lunch, good coffee and everyone can join our crossfit sessions for free. We work in a cool office located in Nørrebro - close to the lakes. At Company Six we are a team that really enjoy working together. We believe in what we do and make a great effort to create the best work environment. All in all to create great stuff!",
+                "yourProfile":"Minimum requirements: Experience building structured, maintainable and readable Python. Experience with automated tests. Be interested in teaching team members about your areas of expertise as well as learning from other experts about theirs. Experience with linux. Be proficient in Git version control. Intempus has no middle-management and believes in basing company decisions on merit. As we encourage all team members, including the newest, to contribute with ideas and inputs to create a better experience for our users. If you like to create an impact and wish to become part of a journey of growth, Intempus is the place for you.",
+                "aboutUs":"Company Six is one of the fastest growing and leading thick data platforms in the world. We have created the framework of Customer Empowered Business™, and we believe that good and meaningful customer experiences make both people and businesses grow. To help companies involve their customers we have invented a unique platform that offers Customer Reality Checks. To join our team in Copenhagen, we are excited to welcome a Backend Developer Intern, eager to drive development fast forward. The Product Management team finest responsibility is the backend. As Backend Developer Intern, you are to join the Product Management team in further developing our platform and provide an immersive and engaging experience.",
+                "toolsTasks":[
+                    "Front-end: React, Redux, Tailwind CSS","Back-end: Node.js, Express.js, PostgreSQL", "AWS, Auth0, Google API's and more..."
+                ]
+            },
+            "front":"http://katrinsig.com/webIntern/images/portrait/programming/a-unsplash.jpg",
+            "images": [
+                "http://katrinsig.com/webIntern/images/landscape/programming/b-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/programming/d-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/programming/a-unsplash.jpg"
+                
+            ],
+            "statisticInfo": {
+                "employees":"50-200",
+                "clients":"100",
+                "projects":"120",
+                "companyAge":"5"
+            },
+            "contact":{
+                "interested":"We hope that this post has sparked your interest in becoming a part of the team. Send your application, CV and other references to our HR Manager, Marina Overbye, maria@job.com. For further information about the position, please take a look at our contact deatails",
+                "contactInfo":{
+                    "facebook":"https://www.facebook.com/",
+                    "instagram":"https://www.instagram.com/",
+                    "linkedIn":"https://www.linkedin.com/company/",
+                    "phoneNumber":"+45 76 89 55 34",
+                    "email":"CompanySix@Company.com",
+                    "address":"Fisketorvet 67, 5600 Aalborg",
+                    "website":"CompanySix.com"
+                }
+            }
+        },
+        {
+            "id":"7", 
+            "companyName":"Company Seven",
+            "postTitle":"We are taking in a Project Management Intern",
+            "searchFilter": ["projectmanagement"],
+            "importantInfo":{
+                "deadline":"01.01.2019",
+                "created":"29.11.2018",
+                "duration":"3 months",
+                "location":"Copenhagen"
+            },
+            "internshipText": {
+                "introduction":"Unity is looking for a motivated student to support Unity’s PMO (project management office) in our IT organization. You will be supporting in coordinating, completing and concluding different projects, and you will be assisting Business Analysts and Project Managers various ad-hoc tasks. One of the challenges will be to effectively communicate with different stakeholders – ensuring timely delivery of all projects and execution as well as optimising processes with all involved stakeholders.",
+                "yourProfile":"Software development is your passion, and you are a true expert within the field. +5 years within C# (or similar language). Experience with practices from Extreme Programming. Experience with distributed systems, and Software as a Service is an advantage. Experience within lean startup, agile development and project management, integration, design, Microservices and security is a definite advantage. You hold an engineering degree or a corresponding technical education – probably at Master level. Pro-active, self-starter, flexible and result oriented individual. Enjoy working in a fast-paced, dynamic environment. Passionate and excited about performance, cloud computing and agile software development. Fluent /native English speaker and writer",
+                "aboutUs":"Company Seven is a fast-growing technology company with an eye on changing how high-demand online events are handled. We take great pride in always being on top of the situation with our customers, and we love that we deliver online fairness to billions of end-users globally. Our culture is open, multicultural, flexible, and dynamic, with opportunities for great individual development, responsibility and initiative. This role will be perfect for someone interested in joining a growth-stage tech company, as you will be able to truly make a difference by applying your unique talent. Queue-it is located in the Camp by Rain-making, which is a great co-working space for tech companies, in Ballerup, near Copenhagen, Denmark.",
+                "toolsTasks":[
+                    "Work in a cloud native development environment, utilizing a range of different technologies and open source frameworks","Be a part of a team where focus is on craftsmanship and agility, automation and quality are not just empty words","Dive into our distributed, highly reliable and scalable Microservices architecture","Have a high degree of influence, responsibility and flexibility in planning and executing your tasks"
+                ]
+            },
+            "front":"http://katrinsig.com/webIntern/images/portrait/management/b-unsplash.jpg",
+            "images": [
+                "http://katrinsig.com/webIntern/images/landscape/management/b-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/b-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/management/a-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/z-unsplash.jpg"
+            ],
+            "statisticInfo": {
+                "employees":"1000",
+                "clients":"150",
+                "projects":"300",
+                "companyAge":"10"
+            },
+            "contact":{
+                "interested":"We hope this post has caugth your interest. We are always looking for talented people. Please send ud your application and CV to job@job.com and will will get back to you as fast as posible. Give us a call if you have any questions reagarding this post.",
+                "contactInfo":{
+                    "facebook":"https://www.facebook.com/unitytech/",
+                    "instagram":"https://www.instagram.com/unitytechnologies/",
+                    "linkedIn":"https://www.linkedin.com/company/unity-technologies/life/",
+                    "phoneNumber":"+45 76 76 76 76",
+                    "email":"CompanySeven@Company.com",
+                    "address":"Vesterbrogade 678, 1810 Copenhagen",
+                    "website":"CompanySeven.com"
+                }
+            }
+        },
+        {
+            "id":"8", 
+            "companyName":"Company Eight",
+            "postTitle":"Taking In Frontend Developer Intern",
+            "searchFilter": ["frontend"],
+            "importantInfo": {
+                "deadline":"01.01.2019",
+                "created":"29.11.2018",
+                "duration":"3 months",
+                "location":"Virum"
+            },
+            "internshipText": {
+                "introduction":"As a Frontend Developer Intern at Company Eight, you will become part of a unique fintech startup that specializes in proprietary trading algorithms for cryptocurrencies and other financial instruments. You will work with a small team of hands-on entrepreneurs with extensive backgrounds in global investments banking and industrial corporates. You will be involved in creating a solid design process and documentation for Company Eight’s subscription business.",
+                "yourProfile":"Here are some of the things we look for: Experience with modern web frontend frameworks such as React, Vue or similar. Motivation to become a part of and learn from a team of experienced and passionate developers for web, iOS and Android. You are comfortable working with JavaScript. Experience with modern web technologies such as Progressive Web Apps. Interest in techniques for optimizing performance for the mobile web. We hope that you also want to share your knowledge with co-workers and assume you are as eager to follow the latest technology trends as the rest of us.",
+                "aboutUs":"Company Eight is a Danish fintech company that develops proprietary trading algorithms, risk management models and analytical research for institutional finance and professional investors. Company Eight is a Danish fintech startup that develops proprietary cryptocurrency trading algorithms and provides analytical research for institutional financiers, professional investors and cryptocurrency enthusiasts.We leverage a portfolio of unique and time-tested algorithms from financial markets. We are a highly qualified and friendly team located in Charlottenlund Palace in Charlottenlund (20 minutes from Copenhagen city center). Our services for institutional finance and professional investors are to give them an informed guideline that can be used to predict cryptocurrency. We have developed a proprietary, rule-based algorithmic tool that auto-generates entry and exit signals in cryptocurrencies called the Company Eight Blackbox",
+                "toolsTasks":[
+                    "React","Redux","REST","API","GraphQL","TypeScript","Git","Webpack/Rollup"
+                ]
+            },
+            "front":"http://katrinsig.com/webIntern/images/portrait/g-unsplash.jpg",
+            "images": [
+                "http://katrinsig.com/webIntern/images/landscape/h-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/i-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/j-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/k-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/l-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/m-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/n-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/o-unsplash.jpg"
+            ],
+            "statisticInfo": {
+                "employees":"13",
+                "clients":"5",
+                "projects":"5",
+                "companyAge":"2"
+            },
+            "contact":{
+                "interested":"We encourage you to apply even if you do not feel you meet all of the requirements mentioned above. It is more important that you are curious, committed, have an open mind and want to get to know a tech company from the inside. Send an application with a cv and a portfolio to job@job.com, and we will get back to you as soon as posible.",
+                "contactInfo":{
+                    "facebook":"https://www.facebook.com/",
+                    "instagram":"https://www.instagram.com/",
+                    "linkedIn":"https://www.linkedin.com/company/",
+                    "phoneNumber":"+45 89 20 10 22",
+                    "email":"CompanyEight@nordic.com",
+                    "address":"Nordpolen 109, 2000 Odense",
+                    "website":"companyEight.com"
+                }
+            }
+        }, 
+        {
+            "id": "9", 
+            "companyName": "Company Nine",
+            "postTitle": "Looking for Talented web intern",
+            "searchFilter": ["frontend", "webdesign"],
+            "importantInfo": {
+                "deadline": "04.06.2019",
+                "created": "01.11.2018",
+                "duration": "4 months",
+                "location": "Aalborg"
+            },
+            "internshipText": {
+                "introduction": "Join us as an intern at Company Nine. We’re looking for a front end developer intern with drive, that can be plugged into our team, located in the heart of Copenhagen. So if you’re a sucker for microinteractions, tweaking and nudging of easings, codrops articles and codepens keep you up at night – then you’re exactly the passionate person we’re looking for! We offer nice and flexible working conditions, lots of creative freedom, exciting projects, awesome colleagues, the best lunch scheme in the city as well as the opportunity of learning and increasing your skills everyday.",
+                "yourProfile": "We appreciate you to have: Knowledge and interest in various fields of design such as service design, interaction design, UX research, UX strategy, information architecture, visual design, business development, marketing, CRM and technology/development. Topnotch creative and illustration skills. Proven experience in producing digital screen experiences like apps and web pages. Experience with concepting and a visionary perspective on everything you work with. Familiar with Adobe CC (Photoshop, InDesign, illustrator), Figma or similar design applications. Good communication and interpersonal skills - capability to lead virtual teams. Degree in design. Capability to work cross-functionally and internationally in a fast changing environment. You’ll be spending quite a lot of time doing it in collaboration with the rest of the team, so if you’re not a fan of cross-functional teams…Barry might not be your thing after all.",
+                "aboutUs": "We help brands stay on point in the digital era. We are a Copenhagen based Creative digital studio. We work for brands, organisations and occasionally ourselves. But most importantly, we work for fun. With one foot firmly planted in cutting edge full-stack development and the other planted in visual and motion graphic design, we mainly help by building bridge between the sometimes huge gap residing in no-mans land between design and development.",
+                "toolsTasks":[
+                    "Backend: PHP, Laravel, CodeIgniter, Maria/MySQL","Frontend: JavaScript, VueJS, SCSS, GSAP","Generally: Git, Docker, WordPress"
+                ]
+            },
+            "front":"http://katrinsig.com/webIntern/images/portrait/design/a-unsplash.jpg",
+            "images": [
+                "http://katrinsig.com/webIntern/images/landscape/c-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/d-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/e-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/f-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/g-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/h-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/i-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/j-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/k-unsplash.jpg"
+            ],
+            "statisticInfo": {
+                "employees": "33",
+                "clients": "20",
+                "projects": "300",
+                "companyAge": "8"
+            },
+            "contact":{
+                "interested":"If you are interested in the position, then please send us your application at hello@milk-studio.dk and tell us a bit about yourself. We’re looking forward to hear from you!",
+                "contactInfo":{
+                    "facebook":"https://www.facebook.com/",
+                    "instagram":"https://www.instagram.com/",
+                    "linkedIn":"https://www.linkedin.com/",
+                    "phoneNumber":"+45 90 90 90 90",
+                    "email":"CompanyNine@Company.com",
+                    "address":"Vestergade 200, 4500 Aalborg",
+                    "website":"CompanyNine.dk"
+                }
+            }
+        },
+        {
+            "id": "10", 
+            "companyName": "Company Ten",
+            "postTitle": "Into ruby on rails? Then We could be a good fit!",
+            "searchFilter": ["frontend"],
+            "importantInfo": {
+                "deadline": "04.03.2019",
+                "created": "02.08.2018",
+                "duration": "3 months",
+                "location": "Lyngby"
+            },
+            "internshipText": {
+                "introduction": "Company Ten is always on the lookout for talented interns. We are always looking for talented teamplayers to join our team and push our cutting edge solutions even further. Our internships span from 3 - 6 months. As an intern at Company Ten you will get flexible hours and free lunch. ",
+                "yourProfile": "We expect you to make things more concrete and nerdy, here are some of the technologies we use and expect you to be familiar with: Python (preferably also Django), Relational database (preferably PostgreSQL), ElasticSearch (nice to have), Redis (nice to have), Go (nice to have). We are not afraid to challenge the choice of technology in order to pick the right tools for the job and be productive. The successful candidate for this position has: A structured approach to problem-solving. Passion for shipping new products. A keen eye for good product design from a development perspective. Knowledge of design patterns. Self-motivation, Good English skills",
+                "aboutUs": "We are Company Ten, a creative technology company. We are a creative technology company. A colorful cocktail of thinkers, designers and engineers — shaken (not stirred) with passion and powers to push forward and make the world a better place to live, play and work. Our work transforms hard work to smart work. It connects people with things, learns machines to do the heavy lifting, and teaches children about Head Lice. Our engineers and focus on technology is what sets us apart. We never have to think about if something is too hard to realize. Nothing is too hard. Want to connect your phone to your bicycle light? Well, we have already done that. Want to know what pension is the best for your +5000 employee company? We made a nice software suite for AON Hewitt — they can give you the answer.",
+                "toolsTasks":[
+                    "Ruby (on and off Rails)","Everything JS (Node, React, Vue, Angular, etc.)","PHP (Laravel, WordPress)","Android (Java, React native)","iOS (Swift, React native)"
+                ]
+            },
+            "front":"http://katrinsig.com/webIntern/images/portrait/d-unsplash.jpg",
+            "images": [
+                "http://katrinsig.com/webIntern/images/landscape/programming/a-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/programming/b-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/programming/c-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/programming/d-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/z-unsplash.jpg"
+            ],
+            "statisticInfo": {
+                "employees": "20",
+                "clients": "14",
+                "projects": "112",
+                "companyAge": "5"
+            },
+            "contact":{
+                "interested":"We are looking forward to discovering our next team member! We offer a unique & independent position in a killer team, startup environment with a big company benefits and security, and growth centric new business focus. Please send your short application and cv to job@job.dk. If you have any questions, please contact Rami Piik at rami@job.com.",
+                "contactInfo":{
+                    "facebook":"https://www.facebook.com/",
+                    "instagram":"https://www.instagram.com/",
+                    "linkedIn":"https://www.linkedin.com/",
+                    "phoneNumber":"+45 76 89 55 34",
+                    "email":"CompanyTen@Company.com",
+                    "address":"Holbækgade 34, 2300 Copenhagen",
+                    "website":"CompanyTen.com"
+                }
+            }
+        },
+        {
+            "id": "11", 
+            "companyName": "Company Eleven",
+            "postTitle": "Are you our next creative?",
+            "searchFilter": ["frontend"],
+            "importantInfo": {
+                "deadline": "06.03.2019",
+                "created": "03.08.2018",
+                "duration": "4 months",
+                "location": "Valby"
+            },
+            "internshipText": {
+                "introduction": "Company Eleven is always on the lookout for talented interns. We are always looking for talented teamplayers to join our team and push our cutting edge solutions even further. Our internships span from 3 - 6 months. As an intern at Abtion you will get flexible hours and free lunch. ",
+                "yourProfile": "We expect you to make things more concrete and nerdy, here are some of the technologies we use and expect you to be familiar with: Python (preferably also Django), Relational database (preferably PostgreSQL), ElasticSearch (nice to have), Redis (nice to have), Go (nice to have). We are not afraid to challenge the choice of technology in order to pick the right tools for the job and be productive. The successful candidate for this position has: A structured approach to problem-solving. Passion for shipping new products. A keen eye for good product design from a development perspective. Knowledge of design patterns. Self-motivation, Good English skills",
+                "aboutUs": "We are Company Eleven, a creative technology company. We are a creative technology company. A colorful cocktail of thinkers, designers and engineers — shaken (not stirred) with passion and powers to push forward and make the world a better place to live, play and work. Our work transforms hard work to smart work. It connects people with things, learns machines to do the heavy lifting, and teaches children about Head Lice. Our engineers and focus on technology is what sets us apart. We never have to think about if something is too hard to realize. Nothing is too hard. Want to connect your phone to your bicycle light? Well, we have already done that. Want to know what pension is the best for your +5000 employee company? We made a nice software suite for AON Hewitt — they can give you the answer.",
+                "toolsTasks":[
+                    "Wireframes","JavaScript","CSS","PHP","Web Design"
+                ]
+            },
+            "front":"http://katrinsig.com/webIntern/images/portrait/l-unsplash.jpg",
+            "images": [
+                "http://katrinsig.com/webIntern/images/landscape/y-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/f-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/g-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/h-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/i-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/j-unsplash.jpg"
+            ],
+            "statisticInfo": {
+                "employees": "41",
+                "clients": "26",
+                "projects": "225",
+                "companyAge": "7"
+            },
+            "contact":{
+                "interested":"We are looking forward to discovering our next team member! We offer a unique & independent position in a killer team, startup environment with a big company benefits and security, and growth centric new business focus. Please send your short application and cv to job@job.dk. If you have any questions, please contact Rami Piik at rami@job.com.",
+                "contactInfo":{
+                    "facebook":"https://www.facebook.com/",
+                    "instagram":"https://www.instagram.com/",
+                    "linkedIn":"https://www.linkedin.com/",
+                    "phoneNumber":"+45 10 10 10 10",
+                    "email":"CompanyEleven@Company.com",
+                    "address":"Juleblomstgade 89, 2100 Copenhagen",
+                    "website":"CompanyEleven.dk"
+                }
+            }
+        },
+        {
+            "id": "12", 
+            "companyName": "Company Twelve",
+            "postTitle": "Talented UX & projectmanegment interns needed",
+            "searchFilter": ["frontend","UX"],
+            "importantInfo": {
+                "deadline": "07.03.2019",
+                "created": "04.08.2018",
+                "duration": "3 months",
+                "location": "Svendborg"
+            },
+            "internshipText": {
+                "introduction": "Company Twelve is always on the lookout for talented interns. Do you want to experiment with user involvement, concept development and UX? Or are you more on planning, facilitating and project management? Exponent seeks two internships in spring 2019. At Company Twelve you will get: . A skilled intern who introduces you to projects and follows you through your internship. A practical intro course for the professional methods used in everyday life. A professional plan for the course that is tailored to your level. Ongoing conversations about professional development and responsibility. Opportunity to work on projects with interesting customers. An interdisciplinary working environment. Possibility of professional sparring with your colleagues. Working time to make an internship report. In addition, you will be able to become part of a software agency that is close to technology and users. You are going to work somewhere where the professional is in focus and where you should expect you to learn something from your colleagues. Just as they expect to learn something from you.",
+                "yourProfile": "We imagine that you are in a higher education within, for example. IT, communication, digital design or e-business. You designate yourself as ambitious and wish to specialize in the digital area. You are structured, committed and curious to learn new.",
+                "aboutUs": "In Exponent we work with the development of digital solutions from idea to launch. We are lucky to be allowed to work with lots of exciting and ambitious customers and projects. We have a flat structure and an informal but professional culture. You will experience a great deal of influence and responsibility. Both in the daily work of project teams and inft. To help create and shape Exponent. We believe that the best solutions are created in teams. Therefore, we are worried about being good at communicating and working together. We are on Frederiksberg.",
+                "toolsTasks":[
+                    "Information Architecture (IA) and Navigation","Wireframes and interaction design","Schedule workshops, interviews and user tests","Business needs and user needs","Content management systems", "Participate in customer meetings", "Offers and presentation to customers"
+                ]
+            },
+            "front":"http://katrinsig.com/webIntern/images/portrait/f-unsplash.jpg",
+            "images": [
+                "http://katrinsig.com/webIntern/images/landscape/q-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/r-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/s-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/t-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/u-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/v-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/w-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/x-unsplash.jpg"
+            ],
+            "statisticInfo": {
+                "employees": "15",
+                "clients": "20",
+                "projects": "60",
+                "companyAge": "2"
+            },
+            "contact":{
+                "interested":"We are looking forward to discovering our next team member! We offer a unique & independent position in a killer team, startup environment with a big company benefits and security, and growth centric new business focus. Please send your short application and cv to job@job.dk. If you have any questions, please contact Rami Piik at rami@job.com.",
+                "contactInfo":{
+                    "facebook":"https://www.facebook.com/",
+                    "instagram":"https://www.instagram.com/",
+                    "linkedIn":"https://www.linkedin.com/",
+                    "phoneNumber":"+45 76 76 76 76",
+                    "email":"CompanyTwelve@Company.com ",
+                    "address":"dublinroad 90, 2300 Copenhagen",
+                    "website":"CompanyTwelve.com"
+                }
+            }
+        },
+        {
+            "id": "13", 
+            "companyName": "Company Thirteen",
+            "postTitle": "Back-end intern wanted, join us",
+            "searchFilter": ["backend"],
+            "importantInfo": {
+                "deadline": "01.03.2019",
+                "created": "08.08.2018",
+                "duration": "3 months",
+                "location": "Nørreport"
+            },
+            "internshipText": {
+                "introduction": "Company Thirteen is always on the lookout for talented interns. We are always looking for talented teamplayers to join our team and push our cutting edge solutions even further. Our internships span from 3 - 6 months. As an intern at Abtion you will get flexible hours and free lunch. ",
+                "yourProfile": "We expect you to make things more concrete and nerdy, here are some of the technologies we use and expect you to be familiar with: Python (preferably also Django), Relational database (preferably PostgreSQL), ElasticSearch (nice to have), Redis (nice to have), Go (nice to have). We are not afraid to challenge the choice of technology in order to pick the right tools for the job and be productive. The successful candidate for this position has: A structured approach to problem-solving. Passion for shipping new products. A keen eye for good product design from a development perspective. Knowledge of design patterns. Self-motivation, Good English skills",
+                "aboutUs": "We are Company Thirteen, a creative technology company. We are a creative technology company. A colorful cocktail of thinkers, designers and engineers — shaken (not stirred) with passion and powers to push forward and make the world a better place to live, play and work. Our work transforms hard work to smart work. It connects people with things, learns machines to do the heavy lifting, and teaches children about Head Lice. Our engineers and focus on technology is what sets us apart. We never have to think about if something is too hard to realize. Nothing is too hard. Want to connect your phone to your bicycle light? Well, we have already done that. Want to know what pension is the best for your +5000 employee company? We made a nice software suite for AON Hewitt — they can give you the answer.",
+                "toolsTasks":[
+                    "Ruby (on and off Rails)","Everything JS (Node, React, Vue, Angular, etc.)","PHP (Laravel, WordPress)","Android (Java, React native)","iOS (Swift, React native)"
+                ]
+            },
+            "front":"http://katrinsig.com/webIntern/images/portrait/app/b-unsplash.jpg",
+            "images": [
+                "http://katrinsig.com/webIntern/images/landscape/y-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/programming/a-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/programming/c-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/programming/b-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/programming/d-unsplash.jpg"
+            ],
+            "statisticInfo": {
+                "employees": "90",
+                "clients": "200",
+                "projects": "300",
+                "companyAge": "20"
+            },
+            "contact":{
+                "interested":"We are looking forward to discovering our next team member! We offer a unique & independent position in a killer team, startup environment with a big company benefits and security, and growth centric new business focus. Please send your short application and cv to job@job.dk. If you have any questions, please contact Rami Piik at rami@job.com.",
+                "contactInfo":{
+                    "facebook":"https://www.facebook.com/",
+                    "instagram":"https://www.instagram.com/",
+                    "linkedIn":"https://www.linkedin.com/",
+                    "phoneNumber":"+45 76 89 55 34",
+                    "email":"CompanyThirteen@Company.com",
+                    "address":"streetname 109, 1800 Copenhagen",
+                    "website":"www.CompanyThirteen.com/"
+                }
+            }
+        },
+        {
+            "id": "14", 
+            "companyName": "Company Fourteen",
+            "postTitle": "Are you our new Web designer?",
+            "searchFilter": ["webdesign"],
+            "importantInfo": {
+                "deadline": "09.06.2019",
+                "created": "20.12.2018",
+                "duration": "3 months",
+                "location": "Vangede"
+            },
+            "internshipText": {
+                "introduction": "Company Fourteen is always on the lookout for talented interns. We are always looking for talented teamplayers to join our team and push our cutting edge solutions even further. Our internships span from 3 - 6 months. As an intern at Abtion you will get flexible hours and free lunch. ",
+                "yourProfile": "We expect you to make things more concrete and nerdy, here are some of the technologies we use and expect you to be familiar with: Python (preferably also Django), Relational database (preferably PostgreSQL), ElasticSearch (nice to have), Redis (nice to have), Go (nice to have). We are not afraid to challenge the choice of technology in order to pick the right tools for the job and be productive. The successful candidate for this position has: A structured approach to problem-solving. Passion for shipping new products. A keen eye for good product design from a development perspective. Knowledge of design patterns. Self-motivation, Good English skills",
+                "aboutUs": "We are Company Fourteen, a creative technology company. We are a creative technology company. A colorful cocktail of thinkers, designers and engineers — shaken (not stirred) with passion and powers to push forward and make the world a better place to live, play and work. Our work transforms hard work to smart work. It connects people with things, learns machines to do the heavy lifting, and teaches children about Head Lice. Our engineers and focus on technology is what sets us apart. We never have to think about if something is too hard to realize. Nothing is too hard. Want to connect your phone to your bicycle light? Well, we have already done that. Want to know what pension is the best for your +5000 employee company? We made a nice software suite for AON Hewitt — they can give you the answer.",
+                "toolsTasks":[
+                    "Web Design","UX","UI","Wireframing","User testing"
+                ]
+            },
+            "front":"http://katrinsig.com/webIntern/images/portrait/i-unsplash.jpg",
+            "images": [
+                "http://katrinsig.com/webIntern/images/landscape/design/c-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/a-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/b-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/d-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/e-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/f-unsplash.jpg"
+            ],
+            "statisticInfo": {
+                "employees": "70",
+                "clients": "60",
+                "projects": "237",
+                "companyAge": "25"
+            },
+            "contact":{
+                "interested":"We are looking forward to discovering our next team member! We offer a unique & independent position in a killer team, startup environment with a big company benefits and security, and growth centric new business focus. Please send your short application and cv to job@job.dk. If you have any questions, please contact Rami Piik at rami@job.com.",
+                "contactInfo":{
+                    "facebook":"https://www.facebook.com/",
+                    "instagram":"https://www.instagram.com/",
+                    "linkedIn":"https://www.linkedin.com/",
+                    "phoneNumber":"+45 76 89 55 34",
+                    "email":"CompanyFourteen@Company.com",
+                    "address":"Holbækgade 34, 2300 Copenhagen",
+                    "website":"CompanyFourteen.dk/"
+                }
+            }
+        },
+        {
+            "id": "15", 
+            "companyName": "Company Fifteen",
+            "postTitle": "Want to master E-Commerce, be in tuch!",
+            "searchFilter": ["frontend","backend"],
+            "importantInfo": {
+                "deadline": "04.03.2019",
+                "created": "02.08.2018",
+                "duration": "3 months",
+                "location": "Nørrebro"
+            },
+            "internshipText": {
+                "introduction": "Company Fifteen is always on the lookout for talented interns. We are always looking for talented teamplayers to join our team and push our cutting edge solutions even further. Our internships span from 3 - 6 months. As an intern at Abtion you will get flexible hours and free lunch. ",
+                "yourProfile": "We expect you to make things more concrete and nerdy, here are some of the technologies we use and expect you to be familiar with: Python (preferably also Django), Relational database (preferably PostgreSQL), ElasticSearch (nice to have), Redis (nice to have), Go (nice to have). We are not afraid to challenge the choice of technology in order to pick the right tools for the job and be productive. The successful candidate for this position has: A structured approach to problem-solving. Passion for shipping new products. A keen eye for good product design from a development perspective. Knowledge of design patterns. Self-motivation, Good English skills",
+                "aboutUs": "We are Company Fifteen, a creative technology company. We are a creative technology company. A colorful cocktail of thinkers, designers and engineers — shaken (not stirred) with passion and powers to push forward and make the world a better place to live, play and work. Our work transforms hard work to smart work. It connects people with things, learns machines to do the heavy lifting, and teaches children about Head Lice. Our engineers and focus on technology is what sets us apart. We never have to think about if something is too hard to realize. Nothing is too hard. Want to connect your phone to your bicycle light? Well, we have already done that. Want to know what pension is the best for your +5000 employee company? We made a nice software suite for AON Hewitt — they can give you the answer.",
+                "toolsTasks":[
+                    "Wordpress","PHP (Laravel, WordPress)","Web Design","Plugins"
+                ]
+            },
+            "front":"http://katrinsig.com/webIntern/images/portrait/e-unsplash.jpg",
+            "images": [
+                "http://katrinsig.com/webIntern/images/landscape/programming/b-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/programming/c-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/j-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/k-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/l-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/m-unsplash.jpg"
+            ],
+            "statisticInfo": {
+                "employees": "28",
+                "clients": "50",
+                "projects": "130",
+                "companyAge": "9"
+            },
+            "contact":{
+                "interested":"We are looking forward to discovering our next team member! We offer a unique & independent position in a killer team, startup environment with a big company benefits and security, and growth centric new business focus. Please send your short application and cv to job@job.dk. If you have any questions, please contact Rami Piik at rami@job.com.",
+                "contactInfo":{
+                    "facebook":"https://www.facebook.com/",
+                    "instagram":"https://www.instagram.com/",
+                    "linkedIn":"https://www.linkedin.com/",
+                    "phoneNumber":"+45 76 89 55 34",
+                    "email":"CompanyFifteen@Company.com",
+                    "address":"lyneborggade 200, 2300 Copenhagen",
+                    "website":"CompanyFifteen.com"
+                }
+            }
+        },
+        {
+            "id": "16", 
+            "companyName": "Company Sixteen",
+            "postTitle": "Are you into UX & UI?",
+            "searchFilter": ["ui","ux"],
+            "importantInfo": {
+                "deadline": "04.03.2019",
+                "created": "02.08.2018",
+                "duration": "3 months",
+                "location": "Gentofte"
+            },
+            "internshipText": {
+                "introduction": "Company Sixteen is always on the lookout for talented interns. We are always looking for talented teamplayers to join our team and push our cutting edge solutions even further. Our internships span from 3 - 6 months. As an intern at Abtion you will get flexible hours and free lunch. ",
+                "yourProfile": "We expect you to make things more concrete and nerdy, here are some of the technologies we use and expect you to be familiar with: Python (preferably also Django), Relational database (preferably PostgreSQL), ElasticSearch (nice to have), Redis (nice to have), Go (nice to have). We are not afraid to challenge the choice of technology in order to pick the right tools for the job and be productive. The successful candidate for this position has: A structured approach to problem-solving. Passion for shipping new products. A keen eye for good product design from a development perspective. Knowledge of design patterns. Self-motivation, Good English skills",
+                "aboutUs": "We are Company Sixteen, a creative technology company. We are a creative technology company. A colorful cocktail of thinkers, designers and engineers — shaken (not stirred) with passion and powers to push forward and make the world a better place to live, play and work. Our work transforms hard work to smart work. It connects people with things, learns machines to do the heavy lifting, and teaches children about Head Lice. Our engineers and focus on technology is what sets us apart. We never have to think about if something is too hard to realize. Nothing is too hard. Want to connect your phone to your bicycle light? Well, we have already done that. Want to know what pension is the best for your +5000 employee company? We made a nice software suite for AON Hewitt — they can give you the answer.",
+                "toolsTasks":[
+                    "User expereince","User interface","CSS","Web design","iOS (Swift, React native)"
+                ]
+            },
+            "front":"http://katrinsig.com/webIntern/images/portrait/j-unsplash.jpg",
+            "images": [
+                "http://katrinsig.com/webIntern/images/landscape/h-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/i-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/j-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/k-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/l-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/m-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/n-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/o-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/omar-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/p-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/q-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/r-unsplash.jpg"
+            ],
+            "statisticInfo": {
+                "employees": "34",
+                "clients": "22",
+                "projects": "90",
+                "companyAge": "2"
+            },
+            "contact":{
+                "interested":"We are looking forward to discovering our next team member! We offer a unique & independent position in a killer team, startup environment with a big company benefits and security, and growth centric new business focus. Please send your short application and cv to job@job.dk. If you have any questions, please contact Rami Piik at rami@job.com.",
+                "contactInfo":{
+                    "facebook":"https://www.facebook.com/",
+                    "instagram":"https://www.instagram.com/",
+                    "linkedIn":"https://www.linkedin.com/",
+                    "phoneNumber":"+45 76 89 55 34",
+                    "email":"CompanySixteen@Company.com",
+                    "address":"Holbækgade 34, 2300 Copenhagen",
+                    "website":"www.CompanySixteen.com/"
+                }
+            }
+        },
+        {
+            "id": "17", 
+            "companyName": "Company Seventeen",
+            "postTitle": "Web Design intern is missing!",
+            "searchFilter": ["webdesign"],
+            "importantInfo": {
+                "deadline": "04.03.2019",
+                "created": "02.08.2018",
+                "duration": "3 months",
+                "location": "Holte"
+            },
+            "internshipText": {
+                "introduction": "Company Seventeen is always on the lookout for talented interns. We are always looking for talented teamplayers to join our team and push our cutting edge solutions even further. Our internships span from 3 - 6 months. As an intern at Abtion you will get flexible hours and free lunch. ",
+                "yourProfile": "We expect you to make things more concrete and nerdy, here are some of the technologies we use and expect you to be familiar with: Python (preferably also Django), Relational database (preferably PostgreSQL), ElasticSearch (nice to have), Redis (nice to have), Go (nice to have). We are not afraid to challenge the choice of technology in order to pick the right tools for the job and be productive. The successful candidate for this position has: A structured approach to problem-solving. Passion for shipping new products. A keen eye for good product design from a development perspective. Knowledge of design patterns. Self-motivation, Good English skills",
+                "aboutUs": "We are Company Seventeen, a creative technology company. We are a creative technology company. A colorful cocktail of thinkers, designers and engineers — shaken (not stirred) with passion and powers to push forward and make the world a better place to live, play and work. Our work transforms hard work to smart work. It connects people with things, learns machines to do the heavy lifting, and teaches children about Head Lice. Our engineers and focus on technology is what sets us apart. We never have to think about if something is too hard to realize. Nothing is too hard. Want to connect your phone to your bicycle light? Well, we have already done that. Want to know what pension is the best for your +5000 employee company? We made a nice software suite for AON Hewitt — they can give you the answer.",
+                "toolsTasks":[
+                    "Ruby (on and off Rails)","Everything JS (Node, React, Vue, Angular, etc.)","PHP (Laravel, WordPress)","Android (Java, React native)","iOS (Swift, React native)"
+                ]
+            },
+            "front":"http://katrinsig.com/webIntern/images/portrait/k-unsplash.jpg",
+            "images": [
+                "http://katrinsig.com/webIntern/images/landscape/design/c-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/d-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/e-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/a-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/b-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/f-unsplash.jpg"
+            ],
+            "statisticInfo": {
+                "employees": "20",
+                "clients": "14",
+                "projects": "112",
+                "companyAge": "5"
+            },
+            "contact":{
+                "interested":"We are looking forward to discovering our next team member! We offer a unique & independent position in a killer team, startup environment with a big company benefits and security, and growth centric new business focus. Please send your short application and cv to job@job.dk. If you have any questions, please contact Rami Piik at rami@job.com.",
+                "contactInfo":{
+                    "facebook":"https://www.facebook.com/",
+                    "instagram":"https://www.instagram.com/",
+                    "linkedIn":"https://www.linkedin.com/",
+                    "phoneNumber":"+45 76 89 55 34",
+                    "email":"CompanySeventeen@Company.com",
+                    "address":"Holbækgade 34, 2300 Copenhagen",
+                    "website":"www.CompanySeventeen.com/"
+                }
+            }
+        },
+        {
+            "id": "18", 
+            "companyName": "Company Eighteen",
+            "postTitle": "We are looking to hire a Database Intern",
+            "searchFilter": ["database"],
+            "importantInfo": {
+                "deadline": "04.03.2019",
+                "created": "02.08.2018",
+                "duration": "3 months",
+                "location": "Valby"
+            },
+            "internshipText": {
+                "introduction": "Company Eighteen is always on the lookout for talented interns. We are always looking for talented teamplayers to join our team and push our cutting edge solutions even further. Our internships span from 3 - 6 months. As an intern at Abtion you will get flexible hours and free lunch. ",
+                "yourProfile": "We expect you to make things more concrete and nerdy, here are some of the technologies we use and expect you to be familiar with: Python (preferably also Django), Relational database (preferably PostgreSQL), ElasticSearch (nice to have), Redis (nice to have), Go (nice to have). We are not afraid to challenge the choice of technology in order to pick the right tools for the job and be productive. The successful candidate for this position has: A structured approach to problem-solving. Passion for shipping new products. A keen eye for good product design from a development perspective. Knowledge of design patterns. Self-motivation, Good English skills",
+                "aboutUs": "We are Company Eighteen, a creative technology company. We are a creative technology company. A colorful cocktail of thinkers, designers and engineers — shaken (not stirred) with passion and powers to push forward and make the world a better place to live, play and work. Our work transforms hard work to smart work. It connects people with things, learns machines to do the heavy lifting, and teaches children about Head Lice. Our engineers and focus on technology is what sets us apart. We never have to think about if something is too hard to realize. Nothing is too hard. Want to connect your phone to your bicycle light? Well, we have already done that. Want to know what pension is the best for your +5000 employee company? We made a nice software suite for AON Hewitt — they can give you the answer.",
+                "toolsTasks":[
+                    "Ruby (on and off Rails)","Everything JS (Node, React, Vue, Angular, etc.)","PHP (Laravel, WordPress)","Android (Java, React native)","iOS (Swift, React native)"
+                ]
+            },
+            "front":"http://katrinsig.com/webIntern/images/portrait/database/a-unsplash.jpg",
+            "images": [
+                "http://katrinsig.com/webIntern/images/landscape/database/a-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/r-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/e-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/o-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/s-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/v-unsplash.jpg"
+            ],
+            "statisticInfo": {
+                "employees": "67",
+                "clients": "55",
+                "projects": "200",
+                "companyAge": "5"
+            },
+            "contact":{
+                "interested":"We are looking forward to discovering our next team member! We offer a unique & independent position in a killer team, startup environment with a big company benefits and security, and growth centric new business focus. Please send your short application and cv to job@job.dk. If you have any questions, please contact Rami Piik at rami@job.com.",
+                "contactInfo":{
+                    "facebook":"https://www.facebook.com/",
+                    "instagram":"https://www.instagram.com/",
+                    "linkedIn":"https://www.linkedin.com/",
+                    "phoneNumber":"+45 76 89 55 34",
+                    "email":"CompanyEighteen@Company.com",
+                    "address":"Holbækgade 34, 2300 Copenhagen",
+                    "website":"www.CompanyEighteen.com/"
+                }
+            }
+        },
+        {
+            "id": "19", 
+            "companyName": "Company Nineteen",
+            "postTitle": "If you like Umbraco, we like you!",
+            "searchFilter": ["frontend","backend","fullstack"],
+            "importantInfo": {
+                "deadline": "04.03.2019",
+                "created": "02.08.2018",
+                "duration": "3 months",
+                "location": "Vangede"
+            },
+            "internshipText": {
+                "introduction": "Company Nineteen is always on the lookout for talented interns. We are always looking for talented teamplayers to join our team and push our cutting edge solutions even further. Our internships span from 3 - 6 months. As an intern at Abtion you will get flexible hours and free lunch. ",
+                "yourProfile": "We expect you to make things more concrete and nerdy, here are some of the technologies we use and expect you to be familiar with: Python (preferably also Django), Relational database (preferably PostgreSQL), ElasticSearch (nice to have), Redis (nice to have), Go (nice to have). We are not afraid to challenge the choice of technology in order to pick the right tools for the job and be productive. The successful candidate for this position has: A structured approach to problem-solving. Passion for shipping new products. A keen eye for good product design from a development perspective. Knowledge of design patterns. Self-motivation, Good English skills",
+                "aboutUs": "We are Company Nineteen, a creative technology company. We are a creative technology company. A colorful cocktail of thinkers, designers and engineers — shaken (not stirred) with passion and powers to push forward and make the world a better place to live, play and work. Our work transforms hard work to smart work. It connects people with things, learns machines to do the heavy lifting, and teaches children about Head Lice. Our engineers and focus on technology is what sets us apart. We never have to think about if something is too hard to realize. Nothing is too hard. Want to connect your phone to your bicycle light? Well, we have already done that. Want to know what pension is the best for your +5000 employee company? We made a nice software suite for AON Hewitt — they can give you the answer.",
+                "toolsTasks":[
+                    "Umbraco",".NET","Web design","JavaScript","Razor"
+                ]
+            },
+            "front":"http://katrinsig.com/webIntern/images/portrait/h-unsplash.jpg",
+            "images": [
+                "http://katrinsig.com/webIntern/images/landscape/programming/b-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/programming/c-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/t-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/u-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/v-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/w-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/x-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/y-unsplash.jpg"
+            ],
+            "statisticInfo": {
+                "employees": "20",
+                "clients": "14",
+                "projects": "112",
+                "companyAge": "5"
+            },
+            "contact":{
+                "interested":"We are looking forward to discovering our next team member! We offer a unique & independent position in a killer team, startup environment with a big company benefits and security, and growth centric new business focus. Please send your short application and cv to job@job.dk. If you have any questions, please contact Rami Piik at rami@job.com.",
+                "contactInfo":{
+                    "facebook":"https://www.facebook.com/",
+                    "instagram":"https://www.instagram.com/",
+                    "linkedIn":"https://www.linkedin.com/",
+                    "phoneNumber":"+45 76 89 55 34",
+                    "email":"CompanyNineteen@Company.com",
+                    "address":"Holbækgade 34, 2300 Copenhagen",
+                    "website":"www.CompanyNineteen.com"
+                }
+            }
+        },
+        {
+            "id": "20", 
+            "companyName": "Company Twenty",
+            "postTitle": "We are looking for Wordpress develeper",
+            "searchFilter": ["frontend","backend"],
+            "importantInfo": {
+                "deadline": "04.03.2019",
+                "created": "02.08.2018",
+                "duration": "3 months",
+                "location": "Gentofte"
+            },
+            "internshipText": {
+                "introduction": "Company Twenty is always on the lookout for talented interns. We are always looking for talented teamplayers to join our team and push our cutting edge solutions even further. Our internships span from 3 - 6 months. As an intern at Abtion you will get flexible hours and free lunch. ",
+                "yourProfile": "We expect you to make things more concrete and nerdy, here are some of the technologies we use and expect you to be familiar with: Python (preferably also Django), Relational database (preferably PostgreSQL), ElasticSearch (nice to have), Redis (nice to have), Go (nice to have). We are not afraid to challenge the choice of technology in order to pick the right tools for the job and be productive. The successful candidate for this position has: A structured approach to problem-solving. Passion for shipping new products. A keen eye for good product design from a development perspective. Knowledge of design patterns. Self-motivation, Good English skills",
+                "aboutUs": "We are Company Twenty, a creative technology company. We are a creative technology company. A colorful cocktail of thinkers, designers and engineers — shaken (not stirred) with passion and powers to push forward and make the world a better place to live, play and work. Our work transforms hard work to smart work. It connects people with things, learns machines to do the heavy lifting, and teaches children about Head Lice. Our engineers and focus on technology is what sets us apart. We never have to think about if something is too hard to realize. Nothing is too hard. Want to connect your phone to your bicycle light? Well, we have already done that. Want to know what pension is the best for your +5000 employee company? We made a nice software suite for AON Hewitt — they can give you the answer.",
+                "toolsTasks":[
+                    "WordPress","Everything JS (Node, React, Vue, Angular, etc.)","PHP (Laravel, WordPress)","Android (Java, React native)","iOS (Swift, React native)"
+                ]
+            },
+            "front":"http://katrinsig.com/webIntern/images/portrait/j-unsplash.jpg",
+            "images": [
+                "http://katrinsig.com/webIntern/images/landscape/programming/d-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/a-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/b-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/c-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/programming/a-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/programming/b-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/programming/c-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/d-unsplash.jpg", 
+                "http://katrinsig.com/webIntern/images/landscape/e-unsplash.jpg"
+            ],
+            "statisticInfo": {
+                "employees": "5",
+                "clients": "14",
+                "projects": "112",
+                "companyAge": "5"
+            },
+            "contact":{
+                "interested":"We are looking forward to discovering our next team member! We offer a unique & independent position in a killer team, startup environment with a big company benefits and security, and growth centric new business focus. Please send your short application and cv to job@job.dk. If you have any questions, please contact Rami Piik at rami@job.com.",
+                "contactInfo":{
+                    "facebook":"https://www.facebook.com/",
+                    "instagram":"https://www.instagram.com/",
+                    "linkedIn":"https://www.linkedin.com/",
+                    "phoneNumber":"+45 76 89 55 34",
+                    "email":"CompanyTwenty@Company.com",
+                    "address":"Holbækgade 34, 2300 Copenhagen",
+                    "website":"www.CompanyTwenty.com"
+                }
+            }
+        },
+        {
+            "id":"21", 
+            "companyName":"Company TwentyOne",
+            "postTitle":"Are you our new App Developer Intern?",
+            "searchFilter": ["appdevelopment"],
+            "importantInfo": {
+                "deadline":"01.02.2019",
+                "created":"2.12.2018",
+                "duration":"3 months",
+                "location":"Nørrebro"
+            },
+            "internshipText": {
+                "introduction":"An internship at Company TwentyOne starts in January 2019. The internship has a duration of 2-3 months and it is unpaid. We serve lunch, good coffee and everyone can join our crossfit sessions for free. We work in a cool office located in Nørrebro - close to the lakes. At Company TwentyOne we are a team that really enjoy working together. We believe in what we do and make a great effort to create the best work environment. All in all to create great stuff!",
+                "yourProfile":"Minimum requirements: Experience building structured, maintainable and readable Python. Experience with automated tests. Be interested in teaching team members about your areas of expertise as well as learning from other experts about theirs. Experience with linux. Be proficient in Git version control. Intempus has no middle-management and believes in basing company decisions on merit. As we encourage all team members, including the newest, to contribute with ideas and inputs to create a better experience for our users. If you like to create an impact and wish to become part of a journey of growth, Intempus is the place for you.",
+                "aboutUs":"Company TwentyOne is one of the fastest growing and leading thick data platforms in the world. We have created the framework of Customer Empowered Business™, and we believe that good and meaningful customer experiences make both people and businesses grow. To help companies involve their customers we have invented a unique platform that offers Customer Reality Checks. To join our team in Copenhagen, we are excited to welcome a Backend Developer Intern, eager to drive development fast forward. The Product Management team finest responsibility is the backend. As Backend Developer Intern, you are to join the Product Management team in further developing our platform and provide an immersive and engaging experience.",
+                "toolsTasks":[
+                    "Front-end: React, IOS", "AWS, Auth0, Google API's and more..."
+                ]
+            },
+            "front":"http://katrinsig.com/webIntern/images/portrait/app/a-unsplash.jpg",
+            "images": [
+                "http://katrinsig.com/webIntern/images/landscape/app/b-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/app/a-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/app/c-unsplash.jpg"
+            ],
+            "statisticInfo": {
+                "employees":"50-200",
+                "clients":"100",
+                "projects":"120",
+                "companyAge":"5"
+            },
+            "contact":{
+                "interested":"We hope that this post has sparked your interest in becoming a part of the team. Send your application, CV and other references to our HR Manager, Marina Overbye, maria@job.com. For further information about the position, please take a look at our contact deatails",
+                "contactInfo":{
+                    "facebook":"https://www.facebook.com/",
+                    "instagram":"https://www.instagram.com/",
+                    "linkedIn":"https://www.linkedin.com/company/",
+                    "phoneNumber":"+45 76 89 55 34",
+                    "email":"CompanyTwentyOne@Company.com",
+                    "address":"Fisketorvet 67, 5600 Aalborg",
+                    "website":"CompanyTwentyOne.com"
+                }
+            }
+        },
+        {
+            "id":"22", 
+            "companyName":"Company TwentyTwo",
+            "postTitle":"We are hiring a App Dev. Intern",
+            "searchFilter": ["appdevelopment"],
+            "importantInfo": {
+                "deadline":"01.02.2019",
+                "created":"2.12.2018",
+                "duration":"3 months",
+                "location":"Nørrebro"
+            },
+            "internshipText": {
+                "introduction":"An internship at Company TwentyTwo starts in January 2019. The internship has a duration of 2-3 months and it is unpaid. We serve lunch, good coffee and everyone can join our crossfit sessions for free. We work in a cool office located in Nørrebro - close to the lakes. At Company TwentyOne we are a team that really enjoy working together. We believe in what we do and make a great effort to create the best work environment. All in all to create great stuff!",
+                "yourProfile":"Minimum requirements: Experience building structured, maintainable and readable Python. Experience with automated tests. Be interested in teaching team members about your areas of expertise as well as learning from other experts about theirs. Experience with linux. Be proficient in Git version control. Intempus has no middle-management and believes in basing company decisions on merit. As we encourage all team members, including the newest, to contribute with ideas and inputs to create a better experience for our users. If you like to create an impact and wish to become part of a journey of growth, Intempus is the place for you.",
+                "aboutUs":"Company TwentyTwo is one of the fastest growing and leading thick data platforms in the world. We have created the framework of Customer Empowered Business™, and we believe that good and meaningful customer experiences make both people and businesses grow. To help companies involve their customers we have invented a unique platform that offers Customer Reality Checks. To join our team in Copenhagen, we are excited to welcome a Backend Developer Intern, eager to drive development fast forward. The Product Management team finest responsibility is the backend. As Backend Developer Intern, you are to join the Product Management team in further developing our platform and provide an immersive and engaging experience.",
+                "toolsTasks":[
+                    "Front-end: React, IOS", "AWS, Auth0, Google API's and more..."
+                ]
+            },
+            "front":"http://katrinsig.com/webIntern/images/portrait/app/b-unsplash.jpg",
+            "images": [
+                "http://katrinsig.com/webIntern/images/landscape/app/a-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/app/b-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/app/c-unsplash.jpg"
+            ],
+            "statisticInfo": {
+                "employees":"50-200",
+                "clients":"100",
+                "projects":"120",
+                "companyAge":"5"
+            },
+            "contact":{
+                "interested":"We hope that this post has sparked your interest in becoming a part of the team. Send your application, CV and other references to our HR Manager, Marina Overbye, maria@job.com. For further information about the position, please take a look at our contact deatails",
+                "contactInfo":{
+                    "facebook":"https://www.facebook.com/",
+                    "instagram":"https://www.instagram.com/",
+                    "linkedIn":"https://www.linkedin.com/company/",
+                    "phoneNumber":"+45 76 89 55 34",
+                    "email":"CompanyTwentyTwo@Company.com",
+                    "address":"Fisketorvet 67, 5600 Aalborg",
+                    "website":"CompanyTwentyTwo.com"
+                }
+            }
+        }, 
+        {
+            "id":"23", 
+            "companyName":"Company TwentyThree",
+            "postTitle":"We are hiring a Project management Intern",
+            "searchFilter": ["projectmanagement"],
+            "importantInfo": {
+                "deadline":"01.02.2019",
+                "created":"2.12.2018",
+                "duration":"3 months",
+                "location":"Nørrebro"
+            },
+            "internshipText": {
+                "introduction":"An internship at Company TwentyThree starts in January 2019. The internship has a duration of 2-3 months and it is unpaid. We serve lunch, good coffee and everyone can join our crossfit sessions for free. We work in a cool office located in Nørrebro - close to the lakes. At Company TwentyOne we are a team that really enjoy working together. We believe in what we do and make a great effort to create the best work environment. All in all to create great stuff!",
+                "yourProfile":"Minimum requirements: Experience building structured, maintainable and readable Python. Experience with automated tests. Be interested in teaching team members about your areas of expertise as well as learning from other experts about theirs. Experience with linux. Be proficient in Git version control. Intempus has no middle-management and believes in basing company decisions on merit. As we encourage all team members, including the newest, to contribute with ideas and inputs to create a better experience for our users. If you like to create an impact and wish to become part of a journey of growth, Intempus is the place for you.",
+                "aboutUs":"Company TwentyThree is one of the fastest growing and leading thick data platforms in the world. We have created the framework of Customer Empowered Business™, and we believe that good and meaningful customer experiences make both people and businesses grow. To help companies involve their customers we have invented a unique platform that offers Customer Reality Checks. To join our team in Copenhagen, we are excited to welcome a Backend Developer Intern, eager to drive development fast forward. The Product Management team finest responsibility is the backend. As Backend Developer Intern, you are to join the Product Management team in further developing our platform and provide an immersive and engaging experience.",
+                "toolsTasks":[
+                    "Front-end: React, IOS", "AWS, Auth0, Google API's and more..."
+                ]
+            },
+            "front":"http://katrinsig.com/webIntern/images/portrait/management/c-unsplash.jpg",
+            "images": [
+                "http://katrinsig.com/webIntern/images/landscape/app/a-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/app/b-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/app/c-unsplash.jpg"
+            ],
+            "statisticInfo": {
+                "employees":"50-200",
+                "clients":"100",
+                "projects":"120",
+                "companyAge":"5"
+            },
+            "contact":{
+                "interested":"We hope that this post has sparked your interest in becoming a part of the team. Send your application, CV and other references to our HR Manager, Marina Overbye, maria@job.com. For further information about the position, please take a look at our contact deatails",
+                "contactInfo":{
+                    "facebook":"https://www.facebook.com/",
+                    "instagram":"https://www.instagram.com/",
+                    "linkedIn":"https://www.linkedin.com/company/",
+                    "phoneNumber":"+45 76 89 55 34",
+                    "email":"CompanyTwentyThree@Company.com",
+                    "address":"Fisketorvet 67, 5600 Aalborg",
+                    "website":"CompanyTwentyThree.com"
+                }
+            }
+        },
+        {
+            "id":"24", 
+            "companyName":"Company TwentyFour",
+            "postTitle":"Want to get experience in Project management?",
+            "searchFilter": ["projectmanagement"],
+            "importantInfo": {
+                "deadline":"01.02.2019",
+                "created":"2.12.2018",
+                "duration":"3 months",
+                "location":"Nørrebro"
+            },
+            "internshipText": {
+                "introduction":"An internship at Company TwentyFour starts in January 2019. The internship has a duration of 2-3 months and it is unpaid. We serve lunch, good coffee and everyone can join our crossfit sessions for free. We work in a cool office located in Nørrebro - close to the lakes. At Company TwentyOne we are a team that really enjoy working together. We believe in what we do and make a great effort to create the best work environment. All in all to create great stuff!",
+                "yourProfile":"Minimum requirements: Experience building structured, maintainable and readable Python. Experience with automated tests. Be interested in teaching team members about your areas of expertise as well as learning from other experts about theirs. Experience with linux. Be proficient in Git version control. Intempus has no middle-management and believes in basing company decisions on merit. As we encourage all team members, including the newest, to contribute with ideas and inputs to create a better experience for our users. If you like to create an impact and wish to become part of a journey of growth, Intempus is the place for you.",
+                "aboutUs":"Company TwentyFour is one of the fastest growing and leading thick data platforms in the world. We have created the framework of Customer Empowered Business™, and we believe that good and meaningful customer experiences make both people and businesses grow. To help companies involve their customers we have invented a unique platform that offers Customer Reality Checks. To join our team in Copenhagen, we are excited to welcome a Backend Developer Intern, eager to drive development fast forward. The Product Management team finest responsibility is the backend. As Backend Developer Intern, you are to join the Product Management team in further developing our platform and provide an immersive and engaging experience.",
+                "toolsTasks":[
+                    "Front-end: React, IOS", "AWS, Auth0, Google API's and more..."
+                ]
+            },
+            "front":"http://katrinsig.com/webIntern/images/portrait/management/a-unsplash.jpg",
+            "images": [
+                "http://katrinsig.com/webIntern/images/landscape/app/a-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/app/b-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/app/c-unsplash.jpg"
+            ],
+            "statisticInfo": {
+                "employees":"50-200",
+                "clients":"100",
+                "projects":"120",
+                "companyAge":"5"
+            },
+            "contact":{
+                "interested":"We hope that this post has sparked your interest in becoming a part of the team. Send your application, CV and other references to our HR Manager, Marina Overbye, maria@job.com. For further information about the position, please take a look at our contact deatails",
+                "contactInfo":{
+                    "facebook":"https://www.facebook.com/",
+                    "instagram":"https://www.instagram.com/",
+                    "linkedIn":"https://www.linkedin.com/company/",
+                    "phoneNumber":"+45 76 89 55 34",
+                    "email":"CompanyTwentyFour@Company.com",
+                    "address":"Fisketorvet 67, 5600 Aalborg",
+                    "website":"CompanyTwentyFour.com"
+                }
+            }
+        },
+        {
+            "id":"25", 
+            "companyName":"Company TwentyFive",
+            "postTitle":"Are you a designer with pasion for Back-end?",
+            "searchFilter": ["backend", "webdesign"],
+            "importantInfo":{
+                "deadline":"01.01.2019",
+                "created":"22.11.2018",
+                "duration":"3 months",
+                "location":"Valy"
+            },
+            "internshipText": {
+                "introduction":"At Company One we are always looking for talented people to become part of the family. We are looking for interns within frontend development. Internships at Company One are  a minimum of 10-12 weeks. We provide a mentor throughout you internship, who will guide you and help you reach your goals.",
+                "yourProfile":"Are you interested in development and are you in the process of taking a web related education within design or web design. Are you used to working in sketch and has an understanding and interest in designing websites. Do you have the basic knowledge of HTML,PHP , CSS, and search engine optimization? Are you responsible and meeting stable. We expect you to not be afraid of new challenges and are conversational, that you have the courage to talk with our customers if there is a need for it. We also need you to speak and write in english, since most of our customer dialogue takes place in English.",
+                "aboutUs":"We are a premium agency based in Copenhagen. We offer development of Integrated Marketing, Digital Products and Service. We offer these three products to our clients separately, but hopefully all together. We have specialized in a certain area which we call “Helpful Marketing”. We develop experiences, tools or utilities that give the user a feeling of being helped. This is because we have realized that in the customer's eye most marketing is intrusive, while products are helpful. If we develop marketing in the same manner as products - i.e. in order to help people or solve a problem – customers are more likely to like the marketing and the brand.At Umwelt, we believe in full service with a digital core. We make digital solutions that help our customers set the digital agenda in their industry. We are experts in branded utilities, but we also work with all types of websites, webshops, apps, banners, etc.",
+                "toolsTasks":[
+                    "HTML/CSS",
+                    "Angular",
+                    "GreenSock",
+                    "JavaScript",
+                    "ScrollMagic"
+                ]
+            },
+            "front":"http://katrinsig.com/webIntern/images/portrait/a-unsplash.jpg",
+            "images": [
+                "http://katrinsig.com/webIntern/images/landscape/design/a-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/d-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/f-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/b-unsplash.jpg"
+            ],
+            "statisticInfo":{
+                "employees":"28",
+                "clients":"20",
+                "projects":"35",
+                "companyAge":"22"
+            },
+            "contact":{
+                "interested":"Does this open position match your skills? Send us your resumé and tell us about your talents. Please send an email to: job@umwelt.com. If this position does not match your skills, please send us an application anyway. We look forward to hearing from you!",
+                "contactInfo":{
+                    "facebook":"https://www.facebook.com/",
+                    "instagram":"https://www.instagram.com/",
+                    "linkedIn":"https://www.linkedin.com/company/",
+                    "phoneNumber":"+45 60 60 60 60",
+                    "email":"CompanyTwentyFive@company.com",
+                    "address":"Jernbanegade 6, 6700 Copenhagen",
+                    "website":"www.CompanyTwentyFive.dk"
+                }
+            }   
+        },
+        {
+            "id":"26", 
+            "companyName":"Company TwentySix",
+            "postTitle":"We need Fullstack Interns & Designer",
+            "searchFilter": ["webdesign","fullstack"],
+            "importantInfo":{
+                "deadline":"01.01.2019",
+                "created":"22.11.2018",
+                "duration":"3 months",
+                "location":"Virum"
+            },
+            "internshipText": {
+                "introduction":"We are looking for interns at within web design and fullstack development. Internships at Company Two last from 3 - 6 months and you will either be apart of the design or development team. You will have tasks within scalable responsive design, you will help build, maintain and optimise websites and their features. You will get a lot of responsibility and the chance to shape your own career as we grow. You will have a chance to join an ambitious international team who thrives in fun environment. A chance to be a part of a great network and you will have a flexible work schedule.",
+                "yourProfile":"You are currently studying or have a degree from an IT university, BSc/MSc in Computer Science, IT engineer or equivalent. Experienced in maintaining and improving the design and flow of the website. Experienced with front-end web technologies like HTML, CSS and JavaScript. A passionate software developer who speaks tech as your mother language. A person who knows how to write good solid code. Fluent in either English, Danish or Czech. A team player with a go-get mindset.",
+                "aboutUs":"Company TwentySix is an innovation and design company, established on 15.08.2000. We develop digital services, brand experiences and innovative design solutions, and help our customers accelerate their digital transformation. We work through a well-proven framework, based on design thinking, prototyping and agile development, created to identify challenges and fast-paced solutions that support business goals and strategies. Through close cooperation we have helped more than 500 customers with business and product development, strategy and brand experience.",
+                "toolsTasks":[
+                    "Websites","Responsive Design","Umbraco","JavaScript","HTML/CSS","GreenSock"
+                ]
+            },
+            "front":"http://katrinsig.com/webIntern/images/portrait/b-unsplash.jpg",
+            "images": [
+                "http://katrinsig.com/webIntern/images/landscape/design/f-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/d-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/b-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/e-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/c-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/a-unsplash.jpg"
+            ],
+            "statisticInfo":{
+                "employees":"30",
+                "clients":"12",
+                "projects":"18",
+                "companyAge":"18"
+            },
+            "contact":{
+                "interested":"We are always looking for talented people. Applications will be reviewed on an ongoing basis. So if you are interested and would like to know more: send us your application, CV and portfolio to job@1508.dk and we will contact you within few days and have a chat :) We promise lots of hands on experience as well as personal and career growth in a fun environment!",
+                "contactInfo":{
+                    "facebook":"https://www.facebook.com/",
+                    "instagram":"https://www.instagram.com/",
+                    "linkedIn":"https://www.linkedin.com/company",
+                    "phoneNumber":"+45 33 33 33 33",
+                    "email":"CompanyTwentySix@Company.com",
+                    "address":"Platanvej 13, 1810 Frederiksberg",
+                    "website":"CompanyTwentySix.dk"
+                }
+            }  
+        },
+        {
+            "id":"27", 
+            "companyName":"Company TwentySeven",
+            "postTitle":"Is frontEnd your passion? send us a line",
+            "searchFilter": ["frontend"],
+            "importantInfo":{
+                "deadline":"01.01.2019",
+                "created":"22.11.2018",
+                "duration":"3 months",
+                "location":"Nørrebro"
+            },
+            "internshipText": {
+                "introduction":"We are looking for a new team member with a flair for frontend at Company Three. An internship at Cabana is a minimum of 3 months and you can expect to be given a mentor throughout your internship. We will provide a good learning experience, free lunch, friday bars and other stuff.",
+                "yourProfile":"You hold at least a bachelor’s degree in Design, Computer Science, Engineering or related field. Have a good flair for UX design in general and  experience with JavaScript, HTML and CSS. Experience with UX and UI design is an advantage, Adobe XD, Proto.io, Sketch etc. Have a portfolio that you can share with us. Take initiative, enjoy working both alone and with others, and are creative. Are curious, open to new ideas and on top of the latest trends.",
+                "aboutUs":"Company TwentySeven is a digital experience studio. This means that we make solutions in close collaboration with our customers who solve business problems and provide value for their users. We are specialists in marketing automation and engagement flows and have since 2002 made it our mission to deliver personalized, digital user experiences with measurable results. We are a team of talented designers, certified developers, crisp project managers and experienced advisors. The starting point is always to know the individual company - to understand the challenges and needs. Only in this way can we provide the best advice. We live at Christianshavn and here is nice to be. Our passion for what we do can be clearly felt on the quality of our work.",
+                "toolsTasks":[
+                    "Collaborate with the team and UX Lead to create new prototypes and solutions for the product.",
+                    "Support user research and testing.",
+                    "Develop wireframes and task flows based on user needs.",
+                    "Collaborate with the UX Lead/external team and developers to create intuitive and user-friendly software.",
+                    "Find creative ways to solve UX problems."
+                ]
+            },
+            "front":"http://katrinsig.com/webIntern/images/portrait/c-unsplash.jpg",
+            "images": [
+                "http://katrinsig.com/webIntern/images/landscape/d-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/f-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/n-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/o-unsplash.jpg"
+            ],
+            "statisticInfo":{
+                "employees":"12",
+                "clients":"3",
+                "projects":"4",
+                "companyAge":"8"
+            },
+            "contact":{
+                "interested":"Sounds good? Great, then please drop us an email with your application and posible your portfolio and three lines describing why you should be the newest addition to our team. If you refer a new team member; we’ll make sure to send you a fine bottle of Snaps. Send us an email on job@cabana.dk",
+                "contactInfo":{
+                    "facebook":"https://www.facebook.com/",
+                    "instagram":"https://www.instagram.com/",
+                    "linkedIn":"https://www.linkedin.com/",
+                    "phoneNumber":"+45 67 88 90 22",
+                    "email":"CompanyTwentySeven@company.com",
+                    "address":"Langebro 22, 5600 Århus",
+                    "website":"www.CompanyTwentySeven.dk"
+                }
+            }
+        },
+        {
+            "id":"28", 
+            "companyName":"Company TwentyEight",
+            "postTitle":"Are you studying Frontend? join us",
+            "searchFilter": ["frontend"],
+            "importantInfo":{
+                "deadline":"01.01.2019",
+                "created":"29.11.2018",
+                "duration":"3 months",
+                "location":"Nørreport"
+            },
+            "internshipText":{
+                "introduction":"During your internship as Frontend Developer, you will be assigned a mentor, who will assure a structured and prepared internship, with daily feedback and back-and-forth regarding various tasks and procedures. Together you will have an on-going dialogue regarding your projects, so we can shape your internship from your interests.You will be part of a team with experienced frontend developers. Here you will experience how the development process works in teams who master the SCRUM process. The internship is set at 37 hours a week. Throughout your internship we’re offering you: An appetising breakfast and lunch scheme. Great coffee, soft drinks and fresh fruit. Lots of social activities. An informal work environment. Talented colleagues. A professionally ambitious and inspiring environment where we focus on your personal and professional development. Denmark’s most interesting clients. The possibility for monetary acknowledgment.",
+                "yourProfile":"You are most likely studying Multimedia Design, Information Technology or Web Development (PBA) with interest in frontend development. It is crucial that you are talented and have the “can do” spirit to take on a steep learning curve. Moreover, it’s a plus if you have experience within: Converting design into HTML/CSS, Animations, JavaScript programing, Angular, React or other MVC frameworks.",
+                "aboutUs":"We are a digital agency with 150+ employees and offices in Copenhagen and Aarhus. We work with strategy, implementation of platforms and digital marketing. We thrive on optimising and creating results for and with our clients. And we are confident that our great results are achieved when we combine a professional approach with having fun at the same time. We work for some of Scandinavian’s major brands and retailers such as...",
+                "toolsTasks":[
+                    "HTML/CSS",
+                    "Animations",
+                    "JavaScript programing",
+                    "Angular, React or other MVC frameworks."
+                ]
+            },
+            "front":"http://katrinsig.com/webIntern/images/portrait/k-unsplash.jpg ",
+            "images": [
+                "http://katrinsig.com/webIntern/images/landscape/y-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/programming/b-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/q-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/m-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/e-unsplash.jpg"
+                
+            ],
+            "statisticInfo":{
+                "employees":"150",
+                "clients":"40",
+                "projects":"60",
+                "companyAge":"20"
+            },
+            "contact":{
+                "interested":"We provide the best solutions for our customers - and of course it requires the smartest heads of the industry. Is there such a thing on you and you are burning to create the future digital products and services? We are looking forward to hear from you. Submit your application as well as CV and possibly portfolio to job@impact.dk",
+                "contactInfo":{
+                    "facebook":"https://www.facebook.com/",
+                    "instagram":"https://www.instagram.com/",
+                    "linkedIn":"https://www.linkedin.com/company/",
+                    "phoneNumber":"+45 56 56 56 56",
+                    "email":"CompanyTwentyEight@Company.com",
+                    "address":"Lyneborggade 105, 2300 Copenhagen",
+                    "website":"www.CompanyTwentyEight.dk"
+                }
+            }
+        },
+        {
+            "id":"29", 
+            "companyName":"Company TwentyNine",
+            "postTitle":"We need Web Design intern, maybe that's you!",
+            "searchFilter": ["webdesign"],
+            "importantInfo": {
+                "deadline":"01.01.2019",
+                "created":"29.11.2018",
+                "duration":"3 months",
+                "location":"Vangede"
+            },
+            "internshipText": {
+                "introduction":"Are you looking for a rewarding internship where you can get hands on experience and grow as a designer? Company Five can provide you with exciting work tasks that is aligned with your interest and ambitions, not just coffee making! You will be joining a team with talented Designers, Coordinators and Project Managers. Most of them started as interns back in the days. Come join the school of Company Five and gain in-depth knowledge within design and creative thinking.",
+                "yourProfile":"You hold at least a bachelor’s degree in Design, Computer Science, Engineering or related field. Have a good flair for UX design in general. It is a plus (but not a prerequisite) if you have experience with JavaScript, HTML and CSS. Experience with UX and UI design is an advantage. Have a portfolio that you can share with us (we do not look at candidates without portfolio). Have problem solving skills and an analytical mindset. Want to participate in the UX and UI decision-making process in our company. Take initiative, enjoy working both alone and with others, and are creative. Are curious, open to new ideas and on top of the latest trends - innovation is critical to our success. Are fluent in English.",
+                "aboutUs":"Company TwentyNine was founded in 2014 with a mission to transform internal communication and performance management for businesses around the world. We base our knowledge on more than 30 years of experience with HR, Communication, Digital Technology and E-learning that we apply in our customized app solutions. Company Five is the first to develop a Retail Performance App. By using features based on intelligent software and elements of gamification the App motivates employees towards better performance and a proactive mindset. We are continuously developing our software to stay aligned with our clients’ needs and to push the boundaries of what our app can do. We deliver solutions for some of Europe’s largest retail businesses as well as some of the smallest. In common for all our collaborations is our mindset to build every relationship for the long run. We are there every step of the way to help our clients grow their people and their business.",
+                "toolsTasks":[
+                    "Collaborate with the team and UX Lead to create new prototypes and solutions for the product.", 
+                    "Support user research and testing.",
+                    "Develop wireframes and task flows based on user needs.",
+                    "Collaborate with the UX Lead/external team and developers to create intuitive and user-friendly software.",
+                    "Find creative ways to solve UX problems."
+                ]
+            },
+            "front":"http://katrinsig.com/webIntern/images/portrait/m-unsplash.jpg",
+            "images": [
+                "http://katrinsig.com/webIntern/images/landscape/design/b-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/c-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/d-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/f-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/design/a-unsplash.jpg"
+            ],
+            "statisticInfo": {
+                "employees":"11-50",
+                "clients":"20",
+                "projects":"30",
+                "companyAge":"4"
+            },
+            "contact":{
+                "interested":"We hope this post has caugth your interest. We are always looking for talented people. Please send ud your application and CV to job@job.com and will will get back to you as fast as posible. Give us a call if you have any questions reagarding this post.",
+                "contactInfo":{
+                    "facebook":"https://www.facebook.com/",
+                    "instagram":"https://www.instagram.com/",
+                    "linkedIn":"https://www.linkedin.com/company/",
+                    "phoneNumber":"+45 76 76 76 76",
+                    "email":"CompanyTwentyNine@Company.com",
+                    "address":"Gammelvej 5, 1200 Odense",
+                    "website":"CompanyTwentyNine.net"
+                }
+            }
+        },
+        {
+            "id":"30", 
+            "companyName":"Company Thirty",
+            "postTitle":"Are you our next talent? We are taking in Backend Intern",
+            "searchFilter": ["backend"],
+            "importantInfo": {
+                "deadline":"01.02.2019",
+                "created":"2.12.2018",
+                "duration":"3 months",
+                "location":"Gentofte"
+            },
+            "internshipText": {
+                "introduction":"An internship at Company Thirty starts in January 2019. The internship has a duration of 2-3 months and it is unpaid. We serve lunch, good coffee and everyone can join our crossfit sessions for free. We work in a cool office located in Nørrebro - close to the lakes. At Company Six we are a team that really enjoy working together. We believe in what we do and make a great effort to create the best work environment. All in all to create great stuff!",
+                "yourProfile":"Minimum requirements: Experience building structured, maintainable and readable Python. Experience with automated tests. Be interested in teaching team members about your areas of expertise as well as learning from other experts about theirs. Experience with linux. Be proficient in Git version control. Intempus has no middle-management and believes in basing company decisions on merit. As we encourage all team members, including the newest, to contribute with ideas and inputs to create a better experience for our users. If you like to create an impact and wish to become part of a journey of growth, Intempus is the place for you.",
+                "aboutUs":"Company Thirty is one of the fastest growing and leading thick data platforms in the world. We have created the framework of Customer Empowered Business™, and we believe that good and meaningful customer experiences make both people and businesses grow. To help companies involve their customers we have invented a unique platform that offers Customer Reality Checks. To join our team in Copenhagen, we are excited to welcome a Backend Developer Intern, eager to drive development fast forward. The Product Management team finest responsibility is the backend. As Backend Developer Intern, you are to join the Product Management team in further developing our platform and provide an immersive and engaging experience.",
+                "toolsTasks":[
+                    "Front-end: React, Redux, Tailwind CSS","Back-end: Node.js, Express.js, PostgreSQL", "AWS, Auth0, Google API's and more..."
+                ]
+            },
+            "front":"http://katrinsig.com/webIntern/images/portrait/n-unsplash.jpg",
+            "images": [
+                "http://katrinsig.com/webIntern/images/landscape/programming/b-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/programming/d-unsplash.jpg",
+                "http://katrinsig.com/webIntern/images/landscape/programming/a-unsplash.jpg"
+                
+            ],
+            "statisticInfo": {
+                "employees":"50-200",
+                "clients":"100",
+                "projects":"120",
+                "companyAge":"5"
+            },
+            "contact":{
+                "interested":"We hope that this post has sparked your interest in becoming a part of the team. Send your application, CV and other references to our HR Manager, Marina Overbye, maria@job.com. For further information about the position, please take a look at our contact deatails",
+                "contactInfo":{
+                    "facebook":"https://www.facebook.com/",
+                    "instagram":"https://www.instagram.com/",
+                    "linkedIn":"https://www.linkedin.com/company/",
+                    "phoneNumber":"+45 76 89 55 34",
+                    "email":"CompanyThirty@Company.com",
+                    "address":"Fisketorvet 7, 5600 Aalborg",
+                    "website":"CompanyThirty.com"
+                }
+            }
+        }      
+    ]
+}

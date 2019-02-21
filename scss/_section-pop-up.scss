@@ -1,0 +1,49 @@
+.text-section {
+    display: flex;
+    flex-direction: row;
+    width: calc(100% - 80px);
+    margin: 80px 40px;
+    .logo {
+        width: 50%;
+        background-image: url("http://katrinsig.com/webIntern/images/compLogo.png");
+        background-position: center;
+    }
+    #about-us, .title, .text {
+        width: 50%;
+    }
+
+
+    #contact {
+        display: flex;
+        flex-direction: row;
+        width: 50%;
+        ul {
+            list-style-type: none;
+            width: 30%;
+            li {
+                font-family: $roboto;
+                margin: 10px 0;
+                img{
+                    width: 20px;
+                }
+                a {
+                    color: $color-black;
+                    img {
+                        max-height: 30px;
+                    }
+                }
+            }
+            &:first-child {
+                width: 70%;
+            }
+        }
+        
+    }
+    @media (max-width: $mq-mobile) {
+        flex-direction: column;
+        .logo, #about-us, .title, .text, #contact {
+            width: 100%;
+        }
+    }
+}
+

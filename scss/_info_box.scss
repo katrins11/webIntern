@@ -1,0 +1,30 @@
+#first-infobox-container, #second-infobox-container {
+  width: calc(100% - 80px);
+  margin-left: 40px;
+  margin-right: 40px;
+  height: 200px;
+  background-color: $color-grey;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+
+  @media (max-width: $mq-mobile) {
+    width: calc(100vw - 80px);
+    height: 160px;
+    padding: 20px;
+  }
+  .info {
+    text-align: center;
+    h2 {
+      color: $color-orange;
+    }
+  }
+}
+
+.info-box-headline {
+  margin: 0 40px 40px 80px;
+  @media (max-width: $mq-mobile) {
+    margin: 0 40px 40px 40px;
+  }
+}

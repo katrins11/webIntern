@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>magnifying-glass</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WebIntern-Internships" transform="translate(-1017.000000, -228.000000)" fill="#FF7643" fill-rule="nonzero">
+            <g id="magnifying-glass" transform="translate(1017.000000, 228.000000)">
+                <path d="M24.7837658,23.7250554 L18.7070304,17.6496674 C20.3371036,15.7760532 21.3240186,13.3314856 21.3240186,10.6596452 C21.3240186,4.77827051 16.5391439,0 10.6620093,0 C4.77933023,0 0,4.78381375 0,10.6596452 C0,16.5354767 4.7848747,21.3192905 10.6620093,21.3192905 C13.3344422,21.3192905 15.779552,20.3325942 17.6535817,18.7028825 L23.7303171,24.7782705 C23.8744733,24.9223947 24.0685296,25 24.2570415,25 C24.4455533,25 24.6396097,24.9279379 24.7837658,24.7782705 C25.0720781,24.4900222 25.0720781,24.0133038 24.7837658,23.7250554 Z M1,9.9972785 C1,5.03326278 5.0399274,1 10,1 C14.9655172,1 19,5.03870578 19,9.9972785 C19,14.9558512 14.9655172,19 10,19 C5.0399274,19 1,14.9612942 1,9.9972785 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

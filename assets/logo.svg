@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="183px" height="36px" viewBox="0 0 183 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WebIntern-FrontPage" transform="translate(-58.000000, -20.000000)">
+            <g id="Header" transform="translate(0.000000, 10.000000)">
+                <g id="Logo" transform="translate(54.000000, 0.000000)">
+                    <text id="INTERN" font-family="Roboto-Regular, Roboto" font-size="50" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="17.8911133" y="46">INTERN</tspan>
+                    </text>
+                    <text id="WEB" transform="translate(11.222592, 28.833158) rotate(-89.000000) translate(-11.222592, -28.833158) " font-family="Roboto-Medium, Roboto" font-size="17" font-weight="400" fill="#FF7643">
+                        <tspan x="-6.42486891" y="34.8331575">WEB</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

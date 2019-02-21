@@ -1,0 +1,57 @@
+.owl-carousel {
+    z-index: 0;
+    .item {
+        width: 70vw;
+        max-height: 70vh;
+        height: 70vh;
+        overflow: hidden;
+        background-position: center;
+        background-size: cover;
+        @media (max-width: $mq-before-desktop-max) {
+            max-height: 40vh;
+            height: 40vh;
+        }
+    }
+
+    .owl-nav {
+        .owl-prev, .owl-next {
+            position: absolute;
+            width: 8.2vw;
+            height: 70vh;
+            top: -3px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            outline:0;
+            @media (max-width: $mq-before-desktop-max) {
+                display: none;
+            }
+
+            &:hover {
+                background: transparent;
+                span {
+                    font-size: 250px;
+                    transition: all 0.2s ease-in;
+                }
+            }
+            @media (max-width: $mq-before-desktop-max) {
+                height: 40vh;
+            }
+            span {
+                font-size: 200px;
+                color: $color-orange;
+                transition: all 0.2s ease-out;
+            }
+        }
+        .owl-prev {
+            left: -5px;
+        }
+        .owl-next {
+            right: -4px;
+        }
+    }
+
+    .owl-dots {
+        display: none;
+    }
+}

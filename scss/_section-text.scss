@@ -1,0 +1,44 @@
+.section-text {
+    width: calc(100vw - 120px);
+    padding: 60px;
+    display: flex;
+    flex-direction: row;
+
+    @media (max-width: $mq-mobile) {
+        padding: 30px;
+        flex-direction: column;
+    }
+
+    .section-text-title {
+        width: 30vw;
+        @media (max-width: $mq-mobile) {
+            width: 80vw;
+            margin-bottom: 15px;
+        }
+        h2 {
+            color: $color-black;
+        }
+    }
+
+    .section-text-info {
+        width: 70vw;
+        padding: 0 50px;
+        p, a {
+            color: $color-black;
+        }
+        a {
+            svg {
+                margin-left: 20px;
+                transition: all .4s ease-out;
+            }
+            &:hover {
+                svg {
+                    margin-left: 30px;
+                    transition: all .4s ease-in;
+                   
+                    
+                }
+            }
+        }
+    }
+}

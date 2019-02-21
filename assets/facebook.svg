@@ -1,0 +1,11 @@
+<svg width="25px" height="50px" viewBox="0 0 25 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WebIntern-PopUp" transform="translate(-415.000000, -2747.000000)" fill="#FF7643" fill-rule="nonzero">
+            <g id="linkedin-logo" transform="translate(340.000000, 2747.000000)">
+                <g id="facebook" transform="translate(75.000000, 0.000000)">
+                    <path d="M15.625,17.1875 L15.625,10.9375 C15.625,9.2125 17.025,7.8125 18.75,7.8125 L21.875,7.8125 L21.875,0 L15.625,0 C10.446875,0 6.25,4.196875 6.25,9.375 L6.25,17.1875 L0,17.1875 L0,25 L6.25,25 L6.25,50 L15.625,50 L15.625,25 L21.875,25 L25,17.1875 L15.625,17.1875 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

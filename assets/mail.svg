@@ -1,0 +1,12 @@
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WebIntern-FrontPage" transform="translate(-1148.000000, -2122.000000)" fill="#FF7643" fill-rule="nonzero">
+            <g id="close-envelope" transform="translate(1148.000000, 2122.000000)">
+                <path d="M9.8,9.8 L7.3752,7.6776 L0.4424,13.6206 C0.6944,13.8544 1.0346,14 1.4098,14 L18.1902,14 C18.564,14 18.9028,13.8544 19.1534,13.6206 L12.2248,7.6776 L9.8,9.8 Z" id="Shape"></path>
+                <path d="M19.1576,0.3794 C18.9056,0.1442 18.5668,0 18.1902,0 L1.4098,0 C1.036,0 0.6972,0.1456 0.4452,0.3822 L9.8,8.4 L19.1576,0.3794 Z" id="Shape"></path>
+                <polygon id="Shape" points="0 1.2292 0 12.8604 6.7662 7.1106"></polygon>
+                <polygon id="Shape" points="12.8338 7.1106 19.6 12.8604 19.6 1.225"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

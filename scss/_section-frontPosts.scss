@@ -1,0 +1,89 @@
+.section-frontPosts, .section-posts {
+    width: calc(100vw - 60px);
+    margin-left: 60px;
+    overflow-x: hidden; 
+    h2 {
+        margin-bottom: 20px
+    }
+
+    .section-frontPosts-item, .section-posts-item {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        margin-right: -15px;
+
+        .item {
+            width: calc(25% - 15px);
+            height: 80vh;
+            margin-right: 15px;
+            margin-bottom: 15px;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            position: relative;
+            @media screen and (max-width: 3000px) and (min-width: 1600px) {
+                width: calc(33.3% - 15px); 
+            }
+            @media screen and (max-width: 1499px){
+                width: calc(33.3% - 15px);
+            }
+            @media screen and (max-width: 1040px){
+                width: calc(50% - 15px);
+            }
+            @media screen and (max-width: 500px){
+                width: calc(100% - 15px);
+            }
+            
+            
+            
+            .item-overlay {
+                width: 100%;
+                height: 100%;
+                background-color: rgba($color-black, 0.6);
+                transition: all .5s ease-out;
+                position: absolute;
+                top: 0;
+                left: 0;
+            }
+            &:hover {
+                .item-overlay {
+                    background-color: rgba($color-orange, 0.8);
+                    transition: all .5s ease-in;
+                }
+                h3, h4, p {
+                    color: $color-white;
+                }
+            }
+            h3, h4 {
+                color: $color-white;
+            }
+            .item-title {
+                width: 50%;
+                position: absolute;
+                top: 20px;
+                left: 40%;
+                            
+            }
+            h4 {
+                font-size: 20px;
+                transform: rotate(-90deg);
+                position: absolute;
+                left: 50px;
+                bottom: 90px;
+                transform-origin: left bottom 0;
+            }
+            p {
+                color: $color-orange;
+                margin-top: 10px;
+            }
+            
+        }
+        div:last-child {
+            margin-right: 0px;
+        }
+    }
+}
+
+.section-posts {
+    margin-top: -200px;
+}

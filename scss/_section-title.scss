@@ -1,0 +1,59 @@
+.section-title {
+    .title-info {
+        width: calc(100vw - 120px);
+        height: calc(100vh - 15px);
+        margin-top: 15px;
+        background-color: $color-black;
+        position: relative;
+        display: flex;
+        align-items: center;
+        @media (max-width: $mq-ipad-max) and (orientation:portrait) {
+            height: calc(80vh - 10px);
+        }
+        @media (max-width: $mq-mobile) {
+            width: calc(100vw - 90px);
+            align-items: normal;
+        }
+    
+        .title-info-text {
+            width: 22vw;
+            padding-left: 60px;
+            @media (max-width: $mq-ipad-max) and (orientation:portrait) {
+                width: 70vw;
+            }
+            @media (max-width: $mq-mobile) {
+                width: 60vw;
+                padding-left: 30px;
+                margin-top: 80px;
+            }
+            
+            h1 {
+                color: $color-white;
+            }
+            p {
+                padding-top: 20px;
+                color: $color-white;
+            }
+        }
+    }
+
+    .title-info-image img {
+        height: 70vh;
+        position: absolute;
+        right: 0;
+        top: calc(50% - 35vh);
+        
+        @media (max-width: $mq-ipad-max) and (orientation:landscape)  {
+            height: 60vh;
+            top: calc(50% - 30vh);
+        }
+        @media (max-width: $mq-ipad-max) and (orientation:portrait) {
+            height: 30vh;
+            top: 50%;
+        }
+        @media (max-width: $mq-mobile) and (orientation:portrait) {
+            height: 30vh;
+            top: 50%;
+        }     
+    }
+}
